@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # repo ရဲ့ history အကုန်ယူဖို့
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,5 +32,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add apps.json
-          git commit -m "Updated categories from Aptoide API" || exit 0
-          git push
+          # ပြောင်းလဲမှုရှိမှ commit လုပ်မယ်
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update apps.json" && git pull --rebase origin main && git push origin main)
