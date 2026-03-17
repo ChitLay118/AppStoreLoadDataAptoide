@@ -17,13 +17,15 @@ def fetch_data():
     }
 
     for cat_name, query in category_queries.items():
-        print(f"Fetching Direct Links for Category: {cat_name} (Query: {query})...")
+        # limit=50 သို့ ပြောင်းလဲလိုက်သည်
+        print(f"Fetching 50 Direct Links for Category: {cat_name} (Query: {query})...")
         
-        # Search API URL
-        api_url = f"https://ws75.aptoide.com/api/7/apps/search?query={query}&limit=25"
+        # Search API URL - limit ကို ၅၀ အထိ တိုးမြှင့်ထားသည်
+        api_url = f"https://ws75.aptoide.com/api/7/apps/search?query={query}&limit=50"
         
         try:
-            response = requests.get(api_url, headers=headers, timeout=20)
+            # Data ပမာဏ ပိုများလာသောကြောင့် timeout ကို ၃၀ စက္ကန့်အထိ တိုးထားသည်
+            response = requests.get(api_url, headers=headers, timeout=30)
             if response.status_code == 200:
                 result = response.json()
                 # Aptoide v7 data structure အရ datalist -> list ထဲမှာ app တွေရှိပါတယ်
@@ -32,10 +34,9 @@ def fetch_data():
                 apps_list = []
                 for item in items:
                     # အရေးကြီးဆုံးအပိုင်း: တိုက်ရိုက် APK link ကို file -> path ထဲကနေ ယူခြင်း
-                    # ဒါက website မဟုတ်ဘဲ .apk တိုက်ရိုက် link ဖြစ်ပါတယ်
                     direct_apk_url = item.get("file", {}).get("path")
                     
-                    # အကယ်၍ direct path မတွေ့ခဲ့ရင် (အလွန်ရှားပါသည်) website link ကို fallback အနေနဲ့ သုံးမယ်
+                    # အကယ်၍ direct path မတွေ့ခဲ့ရင် website link ကို fallback အနေနဲ့ သုံးမယ်
                     if not direct_apk_url:
                         direct_apk_url = f"https://{item.get('package')}.en.aptoide.com/app"
 
@@ -63,7 +64,7 @@ def fetch_data():
     with open('apps.json', 'w', encoding='utf-8') as f:
         json.dump(final_json, f, ensure_ascii=False, indent=4)
     
-    print("\n[DONE] apps.json has been updated with DIRECT APK links.")
+    print("\n[DONE] apps.json updated with 50 apps per category (DIRECT APK links).")
 
 if __name__ == "__main__":
     fetch_data()
