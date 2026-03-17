@@ -2,8 +2,9 @@ name: Update Aptoide Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    # ၄ နာရီတစ်ကြိမ် (မြန်မာစံတော်ချိန် ၄ နာရီ၊ ၈ နာရီ၊ ၁၂ နာရီ စသဖြင့်) run မည်
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # လိုအပ်လျှင် Manual နှိပ်၍ run ရန်
 
 jobs:
   build:
@@ -33,9 +34,10 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add apps.json
           
-          # ပြောင်းလဲမှုရှိမှ push မယ်
+          # ပြောင်းလဲမှုရှိမှသာ commit လုပ်ပြီး push မည်
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update apps.json with search API data"
+            git commit -m "Auto-update apps.json (Every 4 hours)"
+            # Conflict မဖြစ်စေရန် force push ကို သုံးထားသည်
             git push origin main --force
           else
             echo "No changes to commit"
