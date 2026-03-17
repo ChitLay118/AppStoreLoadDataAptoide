@@ -725,15 +725,6 @@
             "rating": 5,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-spocky-galaxsimunlock-61-71723375-0ea7e28bcfeba5a88a343395cfa1e72e.apk",
             "description": "Download GalaxSim Unlock latest version."
-        },
-        {
-            "name": "Mind Tools",
-            "package": "com.mindtools.mt_app",
-            "icon": "https://pool.img.aptoide.com/anthony-convery/c84094c809919454f7fb50edf6bf5b2c.png",
-            "version": "5.1.4",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/anthony-convery/com-mindtools-mt-app-498000012-51051697-45349bb247ab2356b5288d650829516b.apk",
-            "description": "Download Mind Tools latest version."
         }
     ]
 }
