@@ -2,8 +2,8 @@ name: Update Aptoide Categories
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # နေ့တိုင်း auto run မယ်
+  workflow_dispatch: # Manual run လို့ရအောင်
 
 jobs:
   build:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # repo ရဲ့ history အကုန်ယူဖို့
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,13 +24,20 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run Script
+      - name: Run Scraper
         run: python scraper.py
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add apps.json
-          # ပြောင်းလဲမှုရှိမှ commit လုပ်မယ်
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update apps.json" && git pull --rebase origin main && git push origin main)
+          
+          # ပြောင်းလဲမှုရှိမှ အလုပ်လုပ်မယ်
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-update apps.json with latest data"
+            # Server ပေါ်က ပြောင်းလဲမှုတွေကို အတင်းကျော်ပြီး push လုပ်ခိုင်းတာ (Force Push)
+            git push origin main --force
+          else
+            echo "No changes to commit"
+          fi
