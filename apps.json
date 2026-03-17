@@ -1,6 +1,658 @@
 {
-    "All": [],
-    "Game": [],
-    "Social": [],
-    "Tool": []
+    "All": [
+        {
+            "name": "Popular Ringtones",
+            "package": "com.latestringtones.popularringtones",
+            "icon": "https://pool.img.aptoide.com/catappult/4e1185c4ef92a0601ed5578a5c5ca8f7_icon.png",
+            "version": "10.0",
+            "rating": 0,
+            "link": "https://com.latestringtones.popularringtones.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular Video",
+            "package": "io.kodular.asaralopb18.Tik_Tok_Video",
+            "icon": "https://pool.img.aptoide.com/catappult/4ef20213014cd39f1f965944d4081559_feature_graphic.png",
+            "version": "4",
+            "rating": 0,
+            "link": "https://io.kodular.asaralopb18.Tik_Tok_Video.en.aptoide.com/app"
+        },
+        {
+            "name": "POPULAR Magazine",
+            "package": "com.popularworld",
+            "icon": "https://pool.img.aptoide.com/appupdater/b3bb8a5abdbeed9076f676ab66c3217d_fgraphic.png",
+            "version": "5.4.1",
+            "rating": 0,
+            "link": "https://com.popularworld.en.aptoide.com/app"
+        },
+        {
+            "name": "Dubstep Drum Pads Guru",
+            "package": "com.chebdev.dubstepdrumpadsguru",
+            "icon": "https://pool.img.aptoide.com/catappult/0645c7771824a5c1c657fe5410abe6bd_fgraphic.png",
+            "version": "1.23",
+            "rating": 0,
+            "link": "https://com.chebdev.dubstepdrumpadsguru.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular Car Driving",
+            "package": "com.OppanaGames.Solaris",
+            "icon": "https://pool.img.aptoide.com/catappult/c7d53639b7890542c65727f4d5e6ab71_fgraphic.png",
+            "version": "1.6",
+            "rating": 0,
+            "link": "https://com.OppanaGames.Solaris.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular SG",
+            "package": "sg.com.popular.memberapp",
+            "icon": "https://pool.img.aptoide.com/appupdater/05542fc26f8d4bb34be52d942a77214a_fgraphic.jpg",
+            "version": "1.21.0",
+            "rating": 0,
+            "link": "https://sg.com.popular.memberapp.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular Cool Music Ringtones",
+            "package": "com.todayshitringtones.best_ring_tones",
+            "icon": "https://pool.img.aptoide.com/appupdater/57091c8d9c9cf59c97efa135b2afb29e_fgraphic.png",
+            "version": "1.5.3",
+            "rating": 0,
+            "link": "https://com.todayshitringtones.best_ring_tones.en.aptoide.com/app"
+        },
+        {
+            "name": "Trap Drum Pads Guru",
+            "package": "com.chebdev.trapdrumpadsguru",
+            "icon": "https://pool.img.aptoide.com/catappult/702a3ddbfceaefe10f9693830dc266ee_fgraphic.png",
+            "version": "1.21",
+            "rating": 0,
+            "link": "https://com.chebdev.trapdrumpadsguru.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular mods for Minecraft",
+            "package": "bestmods.for.mcpe",
+            "icon": "https://pool.img.aptoide.com/catappult/de95ac582453520006dfd0fa01de3026_feature_graphic.png",
+            "version": "3.2.17",
+            "rating": 1,
+            "link": "https://bestmods.for.mcpe.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular Wallpapers",
+            "package": "com.paco.popular.wallpaper",
+            "icon": "https://pool.img.aptoide.com/catappult/f1dbfad52c5ecbb39acdd08b60bf504a_feature_graphic.jpg",
+            "version": "1.0",
+            "rating": 0,
+            "link": "https://com.paco.popular.wallpaper.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular Kids Nursery Rhymes",
+            "package": "com.winjit.popular_collection_of_nurseryrhymes",
+            "icon": "https://pool.img.aptoide.com/catappult/276e6520549a295e49eef4face423ee9_feature_graphic.jpg",
+            "version": "1.0.0.26",
+            "rating": 0,
+            "link": "https://com.winjit.popular_collection_of_nurseryrhymes.en.aptoide.com/app"
+        },
+        {
+            "name": "Hip-Hop Drum Pads Guru",
+            "package": "com.chebdev.hiphopdrumpadsguru",
+            "icon": "https://pool.img.aptoide.com/catappult/24d87cf57b4afb0653be14ff57ac5b0b_fgraphic.png",
+            "version": "1.21",
+            "rating": 0,
+            "link": "https://com.chebdev.hiphopdrumpadsguru.en.aptoide.com/app"
+        },
+        {
+            "name": "NEW-Most Popular Ringtones",
+            "package": "com.andromo.dev545020.app519034",
+            "icon": "https://pool.img.aptoide.com/catappult/4bdbeb6d35901ee446269c72403ef36e_feature_graphic.png",
+            "version": "1.1",
+            "rating": 0,
+            "link": "https://com.andromo.dev545020.app519034.en.aptoide.com/app"
+        },
+        {
+            "name": "Video download app - Popular downloader",
+            "package": "com.videos.videodownloader.videodownloadcom",
+            "icon": "https://pool.img.aptoide.com/catappult/d30f3794d06b612fdd7b2b7851dc8894_fgraphic.jpg",
+            "version": "3.0.1",
+            "rating": 5,
+            "link": "https://com.videos.videodownloader.videodownloadcom.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular Movies",
+            "package": "com.devhch.moviesapp",
+            "icon": "https://pool.img.aptoide.com/catappult/b374f171d1a1bafc7bbc5c6379e3927f_feature_graphic.png",
+            "version": "1.0.1",
+            "rating": 0,
+            "link": "https://com.devhch.moviesapp.en.aptoide.com/app"
+        },
+        {
+            "name": "Drum Pads Guru",
+            "package": "com.chebdev.drumpadsguru",
+            "icon": "https://pool.img.aptoide.com/catappult/c283fc02a6b3d5af939c62b9d28c319d_fgraphic.png",
+            "version": "1.33",
+            "rating": 0,
+            "link": "https://com.chebdev.drumpadsguru.en.aptoide.com/app"
+        },
+        {
+            "name": "Popular Skins for Minecraft PE",
+            "package": "com.klimbo.popularskinsforminecraft",
+            "icon": "https://pool.img.aptoide.com/catappult/368c29cdb5127c5c8f30f90833d868bf_feature_graphic.png",
+            "version": "1.0.0.130",
+            "rating": 0,
+            "link": "https://com.klimbo.popularskinsforminecraft.en.aptoide.com/app"
+        },
+        {
+            "name": "Search in popular video hosting",
+            "package": "rgv.project.youtubesearch",
+            "icon": "https://pool.img.aptoide.com/catappult/ef0c9387beabf275caca8ac925722e68_fgraphic.png",
+            "version": "1.8",
+            "rating": 1,
+            "link": "https://rgv.project.youtubesearch.en.aptoide.com/app"
+        },
+        {
+            "name": "Sanfara Music 🎵 most popular",
+            "package": "com.pickurapps.sanfarasongs",
+            "icon": "https://pool.img.aptoide.com/catappult/bddfd801eb5666c73dea93aacfd46d15_feature_graphic.png",
+            "version": "1.0",
+            "rating": 0,
+            "link": "https://com.pickurapps.sanfarasongs.en.aptoide.com/app"
+        },
+        {
+            "name": "Thevaram",
+            "package": "com.andromo.dev335074.app405761",
+            "icon": "https://pool.img.aptoide.com/catappult/0457dbe7187a1611df6cf96678a7f12a_feature_graphic.png",
+            "version": "4.2",
+            "rating": 0,
+            "link": "https://com.andromo.dev335074.app405761.en.aptoide.com/app"
+        },
+        {
+            "name": "Ringtones - Most Popular Collections",
+            "package": "vn.most.popular.ringtones",
+            "icon": "https://pool.img.aptoide.com/catappult/5dd175be7093d27fb9b71e76b8457a64_fgraphic.png",
+            "version": "6.0",
+            "rating": 0,
+            "link": "https://vn.most.popular.ringtones.en.aptoide.com/app"
+        },
+        {
+            "name": "GoViral Videos - Become Popular",
+            "package": "com.bianextevolution.goviralvideos",
+            "icon": "https://pool.img.aptoide.com/catappult/7d3ed5507bd563b42c3e0f0ef931017e_feature_graphic.png",
+            "version": "1.0",
+            "rating": 5,
+            "link": "https://com.bianextevolution.goviralvideos.en.aptoide.com/app"
+        }
+    ],
+    "Game": [
+        {
+            "name": "Aptoide Games",
+            "package": "com.aptoide.android.aptoidegames",
+            "icon": "https://pool.img.aptoide.com/carolyne-silva/f02852405eb8caaacc52feedff2c186c_fgraphic.png",
+            "version": "1.19.2",
+            "rating": 4.43,
+            "link": "https://com.aptoide.android.aptoidegames.en.aptoide.com/app"
+        },
+        {
+            "name": "Bingo Holiday: Bingo Games",
+            "package": "com.arcadegame.games.bingo.holiday.free.slots.bash",
+            "icon": "https://pool.img.aptoide.com/catappult/5da66256bda7dbf87957e64a10a7db75_fgraphic.png",
+            "version": "1.9.71",
+            "rating": 4.67,
+            "link": "https://com.arcadegame.games.bingo.holiday.free.slots.bash.en.aptoide.com/app"
+        },
+        {
+            "name": "Left to Survive: Zombie Games",
+            "package": "com.glu.zbs",
+            "icon": "https://pool.img.aptoide.com/aptoide-games/ff0550a1035496ffd9c4d58d1cd39581_fgraphic.jpg",
+            "version": "8.2.1",
+            "rating": 5,
+            "link": "https://com.glu.zbs.en.aptoide.com/app"
+        },
+        {
+            "name": "1001 Games (with chat)",
+            "package": "app1001.games",
+            "icon": "https://pool.img.aptoide.com/catappult/ed4ebcee1fe794765dcd03dd3c05b9e0_feature_graphic.png",
+            "version": "1.5",
+            "rating": 3.67,
+            "link": "https://app1001.games.en.aptoide.com/app"
+        },
+        {
+            "name": "Google Play Games",
+            "package": "com.google.android.play.games",
+            "icon": "https://pool.img.aptoide.com/appstvcommunity/03c6a74de4e9d5c67c14e2000a9e88b5_fgraphic.png",
+            "version": "2024.03.51732 (646593252.646593252-020700)",
+            "rating": 3.77,
+            "link": "https://com.google.android.play.games.en.aptoide.com/app"
+        },
+        {
+            "name": "Games",
+            "package": "com.oplus.games",
+            "icon": "https://pool.img.aptoide.com/ganesapps/f1a5ac9e3fa5cbb2953045b4333bccb9_fgraphic.png",
+            "version": "899.9999.9999",
+            "rating": 4.5,
+            "link": "https://com.oplus.games.en.aptoide.com/app"
+        },
+        {
+            "name": "Bike Race：Motorcycle Games",
+            "package": "com.topfreegames.bikeracefreeworld",
+            "icon": "https://pool.img.aptoide.com/vuj3erfes/df45767c0791cc79dfb9dc7bc851a3a7_fgraphic.png",
+            "version": "989",
+            "rating": 0,
+            "link": "https://com.topfreegames.bikeracefreeworld.en.aptoide.com/app"
+        },
+        {
+            "name": "HAWK: Airplane Space games",
+            "package": "com.my.hawk.air.shooter",
+            "icon": "https://pool.img.aptoide.com/appupdater/4583e885bdf94c8020d6190fa6e8e088_fgraphic.png",
+            "version": "42.4.31643",
+            "rating": 5,
+            "link": "https://com.my.hawk.air.shooter.en.aptoide.com/app"
+        },
+        {
+            "name": "LootBoy - Grab your loot!",
+            "package": "com.lootboy.app",
+            "icon": "https://pool.img.aptoide.com/kocha/f330abb768cb29d37a8a45cdba158322.png",
+            "version": "1.23.28",
+            "rating": 5,
+            "link": "https://com.lootboy.app.en.aptoide.com/app"
+        },
+        {
+            "name": "Galaxy - Chat Rooms: Meet New People Online & Date",
+            "package": "ru.mobstudio.andgalaxy",
+            "icon": "https://pool.img.aptoide.com/lexsexy/f5168e2fe4d33dcf78addfc33ee0d24d.png",
+            "version": "9.4.21",
+            "rating": 0,
+            "link": "https://ru.mobstudio.andgalaxy.en.aptoide.com/app"
+        }
+    ],
+    "Social": [
+        {
+            "name": "OK: Social Network",
+            "package": "ru.ok.android",
+            "icon": "https://pool.img.aptoide.com/appupdater/fe999f808e2603637790ecbf521e3ec1_fgraphic.jpg",
+            "version": "23.8.2",
+            "rating": 2.75,
+            "link": "https://ru.ok.android.en.aptoide.com/app"
+        },
+        {
+            "name": "Social Networks",
+            "package": "redes.sociales.social.networks",
+            "icon": "https://pool.img.aptoide.com/catappult/842f03f864bfd610572bcfe6c83113c2_feature_graphic.png",
+            "version": "2020.1.1",
+            "rating": 0,
+            "link": "https://redes.sociales.social.networks.en.aptoide.com/app"
+        },
+        {
+            "name": "Peeks Social",
+            "package": "com.keek",
+            "icon": "https://pool.img.aptoide.com/madeingreatness/12fb0f7261d429e4ac8c6d820e301a4c_fgraphic.png",
+            "version": "6.2.16009",
+            "rating": 0,
+            "link": "https://com.keek.en.aptoide.com/app"
+        },
+        {
+            "name": "OK Live - video livestreams",
+            "package": "ru.ok.live",
+            "icon": "https://pool.img.aptoide.com/catappult/962ad562694dd1a31d252b5f1ff4d0e7_fgraphic.png",
+            "version": "1.6.20c",
+            "rating": 3.64,
+            "link": "https://ru.ok.live.en.aptoide.com/app"
+        },
+        {
+            "name": "Tumblr",
+            "package": "com.tumblr",
+            "icon": "https://pool.img.aptoide.com/appstorevn/b7808fc11b94c9cbc857b0cf638608d2_fgraphic_705x345.png",
+            "version": "11.4.2.14",
+            "rating": 4.7,
+            "link": "https://com.tumblr.en.aptoide.com/app"
+        },
+        {
+            "name": "Social Attack",
+            "package": "com.heasoft.socialattack",
+            "icon": "https://pool.img.aptoide.com/catappult/4cadb1d1a9c06e57ff5ab7bdd7c03acf_icon.png",
+            "version": "1.01",
+            "rating": 0,
+            "link": "https://com.heasoft.socialattack.en.aptoide.com/app"
+        },
+        {
+            "name": "Automatic Social",
+            "package": "com.NujoSystems.AutomaticSocial",
+            "icon": "https://pool.img.aptoide.com/catappult/e120854098ea803f5c47f3d6c01b796c_fgraphic.png",
+            "version": "3.1",
+            "rating": 0,
+            "link": "https://com.NujoSystems.AutomaticSocial.en.aptoide.com/app"
+        },
+        {
+            "name": "Love Quotes",
+            "package": "lovequotes007.love.justforu.lovequotesjustforyou",
+            "icon": "https://pool.img.aptoide.com/catappult/65459cbdc335f5e79eb20b2c9ef9ae88_fgraphic.jpg",
+            "version": "3.3.7",
+            "rating": 0,
+            "link": "https://lovequotes007.love.justforu.lovequotesjustforyou.en.aptoide.com/app"
+        },
+        {
+            "name": "Social Work",
+            "package": "com.sqsapps.social_work",
+            "icon": "https://pool.img.aptoide.com/catappult/2c99ffaee5406bb6a7c56a1d1165e3d8_fgraphic.png",
+            "version": "3.0.0",
+            "rating": 0,
+            "link": "https://com.sqsapps.social_work.en.aptoide.com/app"
+        },
+        {
+            "name": "Social star",
+            "package": "com.my.socialstar",
+            "icon": "https://pool.img.aptoide.com/catappult/1c9e9dee324cca1ed03ab973980e937d_icon.png",
+            "version": "1.0",
+            "rating": 0,
+            "link": "https://com.my.socialstar.en.aptoide.com/app"
+        },
+        {
+            "name": "Social World",
+            "package": "com.SocialWorld.app",
+            "icon": "https://pool.img.aptoide.com/catappult/08c54b7d10940c9e94c85084cb6adf04_feature_graphic.png",
+            "version": "1.2.4",
+            "rating": 0,
+            "link": "https://com.SocialWorld.app.en.aptoide.com/app"
+        },
+        {
+            "name": "Video Downloader for Instagram",
+            "package": "io.jmobile.instant",
+            "icon": "https://pool.img.aptoide.com/catappult/1dd306cb30c11daa8c5e79ba2e8e00ab_feature_graphic.png",
+            "version": "1.2.27c",
+            "rating": 2.09,
+            "link": "https://io.jmobile.instant.en.aptoide.com/app"
+        },
+        {
+            "name": "Social Lite",
+            "package": "com.gaff.socloud",
+            "icon": "https://pool.img.aptoide.com/catappult/c1afceb835d419068212914b33eecc64_fgraphic.jpg",
+            "version": "3.0",
+            "rating": 1,
+            "link": "https://com.gaff.socloud.en.aptoide.com/app"
+        },
+        {
+            "name": "Social Tools",
+            "package": "com.robotech.wastools",
+            "icon": "https://pool.img.aptoide.com/catappult/966061cdec484ac335606219a57ae9d3_feature_graphic.png",
+            "version": "1912019",
+            "rating": 0,
+            "link": "https://com.robotech.wastools.en.aptoide.com/app"
+        },
+        {
+            "name": "SOCIAL KIT",
+            "package": "com.socialkit.ministudios",
+            "icon": "https://pool.img.aptoide.com/catappult/85e7c855ad68a57c12379c2fc62644ce_feature_graphic.jpg",
+            "version": "1.0",
+            "rating": 0,
+            "link": "https://com.socialkit.ministudios.en.aptoide.com/app"
+        },
+        {
+            "name": "GPS Phone Tracker Spy",
+            "package": "com.startup.find_location",
+            "icon": "https://pool.img.aptoide.com/catappult/b4f95ea71e1588cd5a64d8a17b72ebdb_fgraphic.jpg",
+            "version": "12.9.7",
+            "rating": 3.43,
+            "link": "https://com.startup.find_location.en.aptoide.com/app"
+        },
+        {
+            "name": "Social Chat",
+            "package": "com.taggingplus.messenger",
+            "icon": "https://pool.img.aptoide.com/catappult/7611bd1bcd7e36f8e95ebf12c998c068_feature_graphic.png",
+            "version": "1.1.5",
+            "rating": 0,
+            "link": "https://com.taggingplus.messenger.en.aptoide.com/app"
+        },
+        {
+            "name": "Lomotif - Social Community & Editor for Creators",
+            "package": "com.lomotif.android",
+            "icon": "https://pool.img.aptoide.com/catappult/3f42579bafbdfc11a856d8dc89d151f4_feature_graphic.png",
+            "version": "2.5.2.4",
+            "rating": 3.07,
+            "link": "https://com.lomotif.android.en.aptoide.com/app"
+        },
+        {
+            "name": "Flipboard: News For Any Topic",
+            "package": "flipboard.app",
+            "icon": "https://pool.img.aptoide.com/appupdater/dce4a06d4e887dd73942a7892c7b23c4.png",
+            "version": "4.2.19",
+            "rating": 5,
+            "link": "https://flipboard.app.en.aptoide.com/app"
+        },
+        {
+            "name": "OK Video",
+            "package": "ru.ok.androidtv",
+            "icon": "https://pool.img.aptoide.com/catappult/c9cf88776dc93555100d00baf794eb7e_fgraphic.png",
+            "version": "1.15.4",
+            "rating": 0,
+            "link": "https://ru.ok.androidtv.en.aptoide.com/app"
+        },
+        {
+            "name": "IMVU: online 3D metaverse game",
+            "package": "com.imvu.mobilecordova",
+            "icon": "https://pool.img.aptoide.com/matta621/31c37a11fc55fd243d1494b927dfc52a_fgraphic.png",
+            "version": "8.2.0.80200012",
+            "rating": 3.83,
+            "link": "https://com.imvu.mobilecordova.en.aptoide.com/app"
+        },
+        {
+            "name": "Segurança Social",
+            "package": "pt.segsocial.mobile.segurancasocial",
+            "icon": "https://pool.img.aptoide.com/sublime2020/08cb9ef207a53cc23a8e626e0a247533.png",
+            "version": "1.2.20",
+            "rating": 0,
+            "link": "https://pt.segsocial.mobile.segurancasocial.en.aptoide.com/app"
+        },
+        {
+            "name": "YoYo Social",
+            "package": "com.tguru.no",
+            "icon": "https://pool.img.aptoide.com/appupdater/361eb2924781e9509cd5b8bd3d647875_fgraphic.png",
+            "version": "5.3",
+            "rating": 0,
+            "link": "https://com.tguru.no.en.aptoide.com/app"
+        },
+        {
+            "name": "Знакомься ВКонтакте",
+            "package": "com.hippeis.dating",
+            "icon": "https://pool.img.aptoide.com/catappult/9c37483653bc002257dbcf2806418b18_feature_graphic.jpg",
+            "version": "1.48c",
+            "rating": 5,
+            "link": "https://com.hippeis.dating.en.aptoide.com/app"
+        }
+    ],
+    "Tool": [
+        {
+            "name": "Useful Tools",
+            "package": "com.appbasic.bestsmarttools",
+            "icon": "https://pool.img.aptoide.com/catappult/a1fb6ccc10283931fc22f9b8e4ebde8a_feature_graphic.jpg",
+            "version": "1.0.10",
+            "rating": 0,
+            "link": "https://com.appbasic.bestsmarttools.en.aptoide.com/app"
+        },
+        {
+            "name": "Bitcoin tools",
+            "package": "com.devapp.bitcointools",
+            "icon": "https://pool.img.aptoide.com/apps/af54ab1f3d1d05056a4e1c4329cbaf80_icon.png",
+            "version": "1.0",
+            "rating": 0,
+            "link": "https://com.devapp.bitcointools.en.aptoide.com/app"
+        },
+        {
+            "name": "All tools",
+            "package": "com.pradhyu.alltoolseveryutility",
+            "icon": "https://pool.img.aptoide.com/appupdater/fc6bb7afdd2efacd7e650675b2b0f719_fgraphic.png",
+            "version": "3.8.0",
+            "rating": 5,
+            "link": "https://com.pradhyu.alltoolseveryutility.en.aptoide.com/app"
+        },
+        {
+            "name": "dr.fone - Recovery & Transfer wirelessly & Backup",
+            "package": "com.wondershare.drfone",
+            "icon": "https://pool.img.aptoide.com/catappult/a376e15d36374e7448e9b654d446f8ae_fgraphic.png",
+            "version": "3.2.4.195c",
+            "rating": 3,
+            "link": "https://com.wondershare.drfone.en.aptoide.com/app"
+        },
+        {
+            "name": "Tools programmer",
+            "package": "com.do_apps.catalog_142",
+            "icon": "https://pool.img.aptoide.com/13ftw13/edb6ab1a386a39935ed1a1137cad8949.png",
+            "version": "8.5.4",
+            "rating": 0,
+            "link": "https://com.do_apps.catalog_142.en.aptoide.com/app"
+        },
+        {
+            "name": "Pipefitter Tools",
+            "package": "com.odesk.calculator",
+            "icon": "https://pool.img.aptoide.com/appupdater/81ee7f81221a215eb7e5f742abb4d31c_fgraphic.png",
+            "version": "2.7.9",
+            "rating": 0,
+            "link": "https://com.odesk.calculator.en.aptoide.com/app"
+        },
+        {
+            "name": "NFC Tools",
+            "package": "com.wakdev.wdnfc",
+            "icon": "https://pool.img.aptoide.com/catappult/45a418601bd8fc26a6f39afffbe57d1f_fgraphic.png",
+            "version": "9.1",
+            "rating": 2.75,
+            "link": "https://com.wakdev.wdnfc.en.aptoide.com/app"
+        },
+        {
+            "name": "WiFi App: passwords, hotspots",
+            "package": "com.osmino.wifil",
+            "icon": "https://pool.img.aptoide.com/catappult/873531eda58f23bd7f7690f48f2b64ae_fgraphic.jpg",
+            "version": "v2025.6.18.2873567",
+            "rating": 3,
+            "link": "https://com.osmino.wifil.en.aptoide.com/app"
+        },
+        {
+            "name": "Talking Olivia Ostrich Lady",
+            "package": "com.kauf.talking.oliviaostrich",
+            "icon": "https://pool.img.aptoide.com/catappult/e289aeaf5931d1d3ff89e4ebd6177653_feature_graphic.jpg",
+            "version": "2.0",
+            "rating": 0,
+            "link": "https://com.kauf.talking.oliviaostrich.en.aptoide.com/app"
+        },
+        {
+            "name": "Social Tools",
+            "package": "com.robotech.wastools",
+            "icon": "https://pool.img.aptoide.com/catappult/966061cdec484ac335606219a57ae9d3_feature_graphic.png",
+            "version": "1912019",
+            "rating": 0,
+            "link": "https://com.robotech.wastools.en.aptoide.com/app"
+        },
+        {
+            "name": "Need Tools",
+            "package": "com.haloyazilim.needtools",
+            "icon": "https://pool.img.aptoide.com/catappult/cce1c76f5ad224d636381d652b013f00_icon.png",
+            "version": "1.3",
+            "rating": 0,
+            "link": "https://com.haloyazilim.needtools.en.aptoide.com/app"
+        },
+        {
+            "name": "Hik-Connect",
+            "package": "com.hikvision.hikconnect",
+            "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
+            "version": "3.11.1.1023",
+            "rating": 2.77,
+            "link": "https://com.hikvision.hikconnect.en.aptoide.com/app"
+        },
+        {
+            "name": "HTTP Tools",
+            "package": "com.cafelabs.curlme",
+            "icon": "https://pool.img.aptoide.com/catappult/96633318cf4b28359b5ce7821813d73c_feature_graphic.png",
+            "version": "4.5.5",
+            "rating": 0,
+            "link": "https://com.cafelabs.curlme.en.aptoide.com/app"
+        },
+        {
+            "name": "Bitcoin Tools",
+            "package": "bitcoin.merchant.tools",
+            "icon": "https://pool.img.aptoide.com/catappult/c682817cd2324a16bba383e17fbe8245_feature_graphic.jpg",
+            "version": "1.7.6",
+            "rating": 0,
+            "link": "https://bitcoin.merchant.tools.en.aptoide.com/app"
+        },
+        {
+            "name": "Advanced Tools",
+            "package": "scd.atools",
+            "icon": "https://pool.img.aptoide.com/appupdater/7d7f7312231e3e64ddbd43d71014fe68_fgraphic.png",
+            "version": "2.3.4",
+            "rating": 0,
+            "link": "https://scd.atools.en.aptoide.com/app"
+        },
+        {
+            "name": "Advanced Download Manager",
+            "package": "com.dv.adm",
+            "icon": "https://pool.img.aptoide.com/catappult/d3caf6f3de085ffc3b80179504526737_feature_graphic.png",
+            "version": "7.33oc",
+            "rating": 4.31,
+            "link": "https://com.dv.adm.en.aptoide.com/app"
+        },
+        {
+            "name": "RC Tools",
+            "package": "be.hcpl.android.sda",
+            "icon": "https://pool.img.aptoide.com/appupdater/2d46d14ae81a5be41df50f8e8ae80238_fgraphic.png",
+            "version": "3.9.0",
+            "rating": 0,
+            "link": "https://be.hcpl.android.sda.en.aptoide.com/app"
+        },
+        {
+            "name": "File Tools",
+            "package": "cyb.satheesh.filerenamer",
+            "icon": "https://pool.img.aptoide.com/flagsapps/832e49be18b8d624a910ecb4a3f37dc0.png",
+            "version": "6.6.5",
+            "rating": 0,
+            "link": "https://cyb.satheesh.filerenamer.en.aptoide.com/app"
+        },
+        {
+            "name": "Growtopia Tools",
+            "package": "com.MrKapocs.GrowtopiaTools",
+            "icon": "https://pool.img.aptoide.com/apps/8b0540579d738f3e905e6ed4f8ac4f5e_icon.png",
+            "version": "3.1.1",
+            "rating": 4.17,
+            "link": "https://com.MrKapocs.GrowtopiaTools.en.aptoide.com/app"
+        },
+        {
+            "name": "WiFi: passwords, hotspots",
+            "package": "com.osmino.wifilight",
+            "icon": "https://pool.img.aptoide.com/catappult/63fed9b7acc56bdc85122eaf4769ba59_fgraphic.png",
+            "version": "v2025.3.31.2759735",
+            "rating": 5,
+            "link": "https://com.osmino.wifilight.en.aptoide.com/app"
+        },
+        {
+            "name": "Tools Trades",
+            "package": "com.app.prevumrmlkxicjvhbjtkngsdqznpcuyybaoxqdefg",
+            "icon": "https://pool.img.aptoide.com/appupdater/584f7fb3ef2cce6e94f7bf82dac6e374_fgraphic.png",
+            "version": "2.0",
+            "rating": 0,
+            "link": "https://com.app.prevumrmlkxicjvhbjtkngsdqznpcuyybaoxqdefg.en.aptoide.com/app"
+        },
+        {
+            "name": "VEGA Tools",
+            "package": "com.vega.seriennrsuche",
+            "icon": "https://pool.img.aptoide.com/appupdater/8b4f10183ac8566dfcdaab814cdda98c_fgraphic.png",
+            "version": "5.6.906",
+            "rating": 0,
+            "link": "https://com.vega.seriennrsuche.en.aptoide.com/app"
+        },
+        {
+            "name": "Hand tools",
+            "package": "com.do_apps.catalog_264",
+            "icon": "https://pool.img.aptoide.com/split-store/faabad5486f17683ee38de15d66acc34_icon.png",
+            "version": "8.5.4",
+            "rating": 0,
+            "link": "https://com.do_apps.catalog_264.en.aptoide.com/app"
+        },
+        {
+            "name": "GalaxSim Unlock",
+            "package": "com.spocky.galaxsimunlock",
+            "icon": "https://pool.img.aptoide.com/catappult/7a581347e52ed1a7354ebaed6089fd13_fgraphic.jpg",
+            "version": "2.9.12",
+            "rating": 5,
+            "link": "https://com.spocky.galaxsimunlock.en.aptoide.com/app"
+        },
+        {
+            "name": "Mind Tools",
+            "package": "com.mindtools.mt_app",
+            "icon": "https://pool.img.aptoide.com/anthony-convery/c84094c809919454f7fb50edf6bf5b2c.png",
+            "version": "5.1.4",
+            "rating": 0,
+            "link": "https://com.mindtools.mt_app.en.aptoide.com/app"
+        }
+    ]
 }
