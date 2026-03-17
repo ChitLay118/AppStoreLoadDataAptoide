@@ -1,9 +1,9 @@
-name: Update Aptoide Categories
+name: Update Aptoide Data
 
 on:
   schedule:
-    - cron: '0 0 * * *' # နေ့တိုင်း auto run မယ်
-  workflow_dispatch: # Manual run လို့ရအောင်
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -27,16 +27,15 @@ jobs:
       - name: Run Scraper
         run: python scraper.py
 
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add apps.json
           
-          # ပြောင်းလဲမှုရှိမှ အလုပ်လုပ်မယ်
+          # ပြောင်းလဲမှုရှိမှ push မယ်
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Auto-update apps.json with latest data"
-            # Server ပေါ်က ပြောင်းလဲမှုတွေကို အတင်းကျော်ပြီး push လုပ်ခိုင်းတာ (Force Push)
+            git commit -m "Update apps.json with search API data"
             git push origin main --force
           else
             echo "No changes to commit"
