@@ -500,15 +500,6 @@
             "description": "Download IMVU: online 3D metaverse game latest version."
         },
         {
-            "name": "Segurança Social",
-            "package": "pt.segsocial.mobile.segurancasocial",
-            "icon": "https://pool.img.aptoide.com/sublime2020/08cb9ef207a53cc23a8e626e0a247533.png",
-            "version": "1.2.20",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/sublime2020/pt-segsocial-mobile-segurancasocial-10002200-55998529-24e87e6470f381b4e7766a98b47964a5.apk",
-            "description": "Download Segurança Social latest version."
-        },
-        {
             "name": "YoYo Social",
             "package": "com.tguru.no",
             "icon": "https://pool.img.aptoide.com/appupdater/361eb2924781e9509cd5b8bd3d647875_fgraphic.png",
@@ -516,15 +507,6 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-tguru-no-53-67629885-2c69d799f066ed959962327bd7860f3b.apk",
             "description": "Download YoYo Social latest version."
-        },
-        {
-            "name": "Знакомься ВКонтакте",
-            "package": "com.hippeis.dating",
-            "icon": "https://pool.img.aptoide.com/catappult/9c37483653bc002257dbcf2806418b18_feature_graphic.jpg",
-            "version": "1.48c",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hippeis-dating-48-50235218-7af49e2cad9c2499350b9bbb365a80ce.apk",
-            "description": "Download Знакомься ВКонтакте latest version."
         }
     ],
     "Tool": [
