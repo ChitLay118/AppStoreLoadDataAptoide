@@ -556,15 +556,6 @@
             "description": "Download All tools latest version."
         },
         {
-            "name": "dr.fone - Recovery & Transfer wirelessly & Backup",
-            "package": "com.wondershare.drfone",
-            "icon": "https://pool.img.aptoide.com/catappult/a376e15d36374e7448e9b654d446f8ae_fgraphic.png",
-            "version": "3.2.4.195c",
-            "rating": 3,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wondershare-drfone-195-56479017-2ada134570cbad09fcce8ba4f615d479.apk",
-            "description": "Download dr.fone - Recovery & Transfer wirelessly & Backup latest version."
-        },
-        {
             "name": "Tools programmer",
             "package": "com.do_apps.catalog_142",
             "icon": "https://pool.img.aptoide.com/13ftw13/edb6ab1a386a39935ed1a1137cad8949.png",
@@ -590,15 +581,6 @@
             "rating": 2.75,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wakdev-wdnfc-147-73509284-b465d1c29707419f37457247598a5ec3.apk",
             "description": "Download NFC Tools latest version."
-        },
-        {
-            "name": "WiFi App: passwords, hotspots",
-            "package": "com.osmino.wifil",
-            "icon": "https://pool.img.aptoide.com/catappult/873531eda58f23bd7f7690f48f2b64ae_fgraphic.jpg",
-            "version": "v2025.6.18.2873567",
-            "rating": 3,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifil-2873567-71720217-bc96905b725cb290a3be20385473058a.apk",
-            "description": "Download WiFi App: passwords, hotspots latest version."
         },
         {
             "name": "Talking Olivia Ostrich Lady",
@@ -628,15 +610,6 @@
             "description": "Download Need Tools latest version."
         },
         {
-            "name": "Hik-Connect",
-            "package": "com.hikvision.hikconnect",
-            "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
-            "version": "3.11.1.1023",
-            "rating": 2.77,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hikvision-hikconnect-89-51398311-0cc5e2d747da7bbe21987674d39648d2.apk",
-            "description": "Download Hik-Connect latest version."
-        },
-        {
             "name": "HTTP Tools",
             "package": "com.cafelabs.curlme",
             "icon": "https://pool.img.aptoide.com/catappult/96633318cf4b28359b5ce7821813d73c_feature_graphic.png",
@@ -662,15 +635,6 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/appupdater/scd-atools-114-73110969-23ad2e9d9a41b7bc6a103bedadb6f9a2.apk",
             "description": "Download Advanced Tools latest version."
-        },
-        {
-            "name": "Advanced Download Manager",
-            "package": "com.dv.adm",
-            "icon": "https://pool.img.aptoide.com/catappult/d3caf6f3de085ffc3b80179504526737_feature_graphic.png",
-            "version": "7.33oc",
-            "rating": 4.31,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-dv-adm-73312-55968942-c1b9ca03afa2db9a0809b11069dba980.apk",
-            "description": "Download Advanced Download Manager latest version."
         },
         {
             "name": "RC Tools",
@@ -700,15 +664,6 @@
             "description": "Download Growtopia Tools latest version."
         },
         {
-            "name": "WiFi: passwords, hotspots",
-            "package": "com.osmino.wifilight",
-            "icon": "https://pool.img.aptoide.com/catappult/63fed9b7acc56bdc85122eaf4769ba59_fgraphic.png",
-            "version": "v2025.3.31.2759735",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifilight-2759735-71720216-b0d1a76b5250c496963f7a260464b87b.apk",
-            "description": "Download WiFi: passwords, hotspots latest version."
-        },
-        {
             "name": "Tools Trades",
             "package": "com.app.prevumrmlkxicjvhbjtkngsdqznpcuyybaoxqdefg",
             "icon": "https://pool.img.aptoide.com/appupdater/584f7fb3ef2cce6e94f7bf82dac6e374_fgraphic.png",
@@ -734,15 +689,6 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/split-store/com-do-apps-catalog-264-805040-50476412-8b0cd5d04e3b732bdfbb4084699881c0.apk",
             "description": "Download Hand tools latest version."
-        },
-        {
-            "name": "GalaxSim Unlock",
-            "package": "com.spocky.galaxsimunlock",
-            "icon": "https://pool.img.aptoide.com/catappult/7a581347e52ed1a7354ebaed6089fd13_fgraphic.jpg",
-            "version": "2.9.12",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-spocky-galaxsimunlock-61-71723375-0ea7e28bcfeba5a88a343395cfa1e72e.apk",
-            "description": "Download GalaxSim Unlock latest version."
         }
     ]
 }
