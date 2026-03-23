@@ -222,9 +222,9 @@
             "name": "Left to Survive: Zombie Games",
             "package": "com.glu.zbs",
             "icon": "https://pool.img.aptoide.com/aptoide-games/ff0550a1035496ffd9c4d58d1cd39581_fgraphic.jpg",
-            "version": "8.2.1",
+            "version": "8.2.2",
             "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/aptoide-games/com-glu-zbs-386438020-73730733-78100b348e735b0695927641d9d5b592.apk",
+            "downloadUrl": "https://pool.apk.aptoide.com/aptoide-games/com-glu-zbs-388178020-74055254-5c84030a23ca7abe5702354dfb91612f.apk",
             "description": "Download Left to Survive: Zombie Games latest version."
         },
         {
@@ -516,6 +516,24 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/sublime2020/pt-segsocial-mobile-segurancasocial-10002200-55998529-24e87e6470f381b4e7766a98b47964a5.apk",
             "description": "Download Segurança Social latest version."
+        },
+        {
+            "name": "YoYo Social",
+            "package": "com.tguru.no",
+            "icon": "https://pool.img.aptoide.com/appupdater/361eb2924781e9509cd5b8bd3d647875_fgraphic.png",
+            "version": "5.3",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-tguru-no-53-67629885-2c69d799f066ed959962327bd7860f3b.apk",
+            "description": "Download YoYo Social latest version."
+        },
+        {
+            "name": "Знакомься ВКонтакте",
+            "package": "com.hippeis.dating",
+            "icon": "https://pool.img.aptoide.com/catappult/9c37483653bc002257dbcf2806418b18_feature_graphic.jpg",
+            "version": "1.48c",
+            "rating": 5,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hippeis-dating-48-50235218-7af49e2cad9c2499350b9bbb365a80ce.apk",
+            "description": "Download Знакомься ВКонтакте latest version."
         }
     ],
     "Tool": [
