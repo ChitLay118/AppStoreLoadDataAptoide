@@ -507,6 +507,15 @@
             "rating": 3.83,
             "downloadUrl": "https://pool.apk.aptoide.com/matta621/com-imvu-mobilecordova-80200012-63612590-f234298a81c73190e931c77769636bde.apk",
             "description": "Download IMVU: online 3D metaverse game latest version."
+        },
+        {
+            "name": "Segurança Social",
+            "package": "pt.segsocial.mobile.segurancasocial",
+            "icon": "https://pool.img.aptoide.com/sublime2020/08cb9ef207a53cc23a8e626e0a247533.png",
+            "version": "1.2.20",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/sublime2020/pt-segsocial-mobile-segurancasocial-10002200-55998529-24e87e6470f381b4e7766a98b47964a5.apk",
+            "description": "Download Segurança Social latest version."
         }
     ],
     "Tool": [
@@ -640,9 +649,9 @@
             "name": "Advanced Tools",
             "package": "scd.atools",
             "icon": "https://pool.img.aptoide.com/appupdater/7d7f7312231e3e64ddbd43d71014fe68_fgraphic.png",
-            "version": "2.3.4",
+            "version": "2.3.5",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/scd-atools-114-73110969-23ad2e9d9a41b7bc6a103bedadb6f9a2.apk",
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/scd-atools-116-74098001-57fa259ed518a2aea751ac7f047300d7.apk",
             "description": "Download Advanced Tools latest version."
         },
         {
