@@ -228,6 +228,15 @@
             "description": "Download Left to Survive: Zombie Games latest version."
         },
         {
+            "name": "Soccer Games: Soccer Stars",
+            "package": "com.miniclip.soccerstars",
+            "icon": "https://pool.img.aptoide.com/buj45dfe/27ebb7ad6081544b38f360d4d210d5a0_fgraphic.jpg",
+            "version": "999",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/buj45dfe/com-miniclip-soccerstars-999-74072590-faec0de398de45a846e464a3c90e0597.apk",
+            "description": "Download Soccer Games: Soccer Stars latest version."
+        },
+        {
             "name": "1001 Games (with chat)",
             "package": "app1001.games",
             "icon": "https://pool.img.aptoide.com/catappult/ed4ebcee1fe794765dcd03dd3c05b9e0_feature_graphic.png",
@@ -605,7 +614,7 @@
             "package": "com.hikvision.hikconnect",
             "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
             "version": "3.11.1.1023",
-            "rating": 2.77,
+            "rating": 2.93,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hikvision-hikconnect-89-51398311-0cc5e2d747da7bbe21987674d39648d2.apk",
             "description": "Download Hik-Connect latest version."
         },
