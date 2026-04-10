@@ -255,6 +255,15 @@
             "description": "Download Google Play Games latest version."
         },
         {
+            "name": "Hustle Castle: Medieval games",
+            "package": "com.my.hc.rpg.kingdom.simulator",
+            "icon": "https://pool.img.aptoide.com/superpocket/6a39658320d2ef23c1bf1410114cf3a2_fgraphic.png",
+            "version": "1.142.1",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/superpocket/com-my-hc-rpg-kingdom-simulator-861-74300642-cae6cf77033e45d4f005f919be557204.apk",
+            "description": "Download Hustle Castle: Medieval games latest version."
+        },
+        {
             "name": "Games",
             "package": "com.oplus.games",
             "icon": "https://pool.img.aptoide.com/ganesapps/f1a5ac9e3fa5cbb2953045b4333bccb9_fgraphic.png",
