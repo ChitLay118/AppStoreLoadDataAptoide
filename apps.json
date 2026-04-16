@@ -91,13 +91,13 @@
             "description": "Download Popular Wallpapers latest version."
         },
         {
-            "name": "NEW-Most Popular Ringtones",
-            "package": "com.andromo.dev545020.app519034",
-            "icon": "https://pool.img.aptoide.com/catappult/4bdbeb6d35901ee446269c72403ef36e_feature_graphic.png",
-            "version": "1.1",
+            "name": "Popular Kids Nursery Rhymes",
+            "package": "com.winjit.popular_collection_of_nurseryrhymes",
+            "icon": "https://pool.img.aptoide.com/catappult/276e6520549a295e49eef4face423ee9_feature_graphic.jpg",
+            "version": "1.0.0.26",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-andromo-dev545020-app519034-5-46088604-8dc15a0aa7fb20e8284beb3e6e3a80b6.apk",
-            "description": "Download NEW-Most Popular Ringtones latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-winjit-popular-collection-of-nurseryrhymes-24-51486743-d6494b7b78f745910721e47ee4b6a9d0.apk",
+            "description": "Download Popular Kids Nursery Rhymes latest version."
         },
         {
             "name": "Hip-Hop Drum Pads Guru",
@@ -109,13 +109,13 @@
             "description": "Download Hip-Hop Drum Pads Guru latest version."
         },
         {
-            "name": "Popular Kids Nursery Rhymes",
-            "package": "com.winjit.popular_collection_of_nurseryrhymes",
-            "icon": "https://pool.img.aptoide.com/catappult/276e6520549a295e49eef4face423ee9_feature_graphic.jpg",
-            "version": "1.0.0.26",
+            "name": "NEW-Most Popular Ringtones",
+            "package": "com.andromo.dev545020.app519034",
+            "icon": "https://pool.img.aptoide.com/catappult/4bdbeb6d35901ee446269c72403ef36e_feature_graphic.png",
+            "version": "1.1",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-winjit-popular-collection-of-nurseryrhymes-24-51486743-d6494b7b78f745910721e47ee4b6a9d0.apk",
-            "description": "Download Popular Kids Nursery Rhymes latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-andromo-dev545020-app519034-5-46088604-8dc15a0aa7fb20e8284beb3e6e3a80b6.apk",
+            "description": "Download NEW-Most Popular Ringtones latest version."
         },
         {
             "name": "Video download app - Popular downloader",
@@ -316,6 +316,33 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/lexsexy/ru-mobstudio-andgalaxy-9042100-53274822-d2483dfa6892ec6254a6823f102f32d9.apk",
             "description": "Download Galaxy - Chat Rooms: Meet New People Online & Date latest version."
+        },
+        {
+            "name": "Alphabet Games",
+            "package": "kidgames.abc.pack",
+            "icon": "https://pool.img.aptoide.com/catappult/f953d47560766a79b52d4c5516d300ad_fgraphic.png",
+            "version": "45",
+            "rating": 4,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/kidgames-abc-pack-45-72429441-45716fe14319bb1766c8592311d5b671.apk",
+            "description": "Download Alphabet Games latest version."
+        },
+        {
+            "name": "Puzzle Games",
+            "package": "com.puzzlegames13",
+            "icon": "https://pool.img.aptoide.com/catappult/712d7fe237cc426b637480c6c4a33327_icon.png",
+            "version": "1.6",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-puzzlegames13-6-46993691-6bf7b249c36dfbbad3cd7c5f8fb1f704.apk",
+            "description": "Download Puzzle Games latest version."
+        },
+        {
+            "name": "Christmas Games",
+            "package": "kidgames.christmas.pack",
+            "icon": "https://pool.img.aptoide.com/catappult/186f6818d97632d2c841ff84409f951b_fgraphic.jpg",
+            "version": "76",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/kidgames-christmas-pack-76-72281066-69649eeffd8e0f7169bf328d285e1481.apk",
+            "description": "Download Christmas Games latest version."
         }
     ],
     "Social": [
@@ -392,15 +419,6 @@
             "description": "Download Love Quotes latest version."
         },
         {
-            "name": "Social Work",
-            "package": "com.sqsapps.social_work",
-            "icon": "https://pool.img.aptoide.com/catappult/2c99ffaee5406bb6a7c56a1d1165e3d8_fgraphic.png",
-            "version": "3.0.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-sqsapps-social-work-30000-53037658-de6fe3ae9df78c385ad04774b650d3d5.apk",
-            "description": "Download Social Work latest version."
-        },
-        {
             "name": "Social star",
             "package": "com.my.socialstar",
             "icon": "https://pool.img.aptoide.com/catappult/1c9e9dee324cca1ed03ab973980e937d_icon.png",
@@ -408,6 +426,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-my-socialstar-1-71618390-1a6a37eed5e671274fdef88828fff951.apk",
             "description": "Download Social star latest version."
+        },
+        {
+            "name": "Social Work",
+            "package": "com.sqsapps.social_work",
+            "icon": "https://pool.img.aptoide.com/catappult/2c99ffaee5406bb6a7c56a1d1165e3d8_fgraphic.png",
+            "version": "3.0.0",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-sqsapps-social-work-30000-53037658-de6fe3ae9df78c385ad04774b650d3d5.apk",
+            "description": "Download Social Work latest version."
         },
         {
             "name": "Social World",
@@ -610,13 +637,13 @@
             "description": "Download Social Tools latest version."
         },
         {
-            "name": "Need Tools",
-            "package": "com.haloyazilim.needtools",
-            "icon": "https://pool.img.aptoide.com/catappult/cce1c76f5ad224d636381d652b013f00_icon.png",
-            "version": "1.3",
+            "name": "Bitcoin Tools",
+            "package": "bitcoin.merchant.tools",
+            "icon": "https://pool.img.aptoide.com/catappult/c682817cd2324a16bba383e17fbe8245_feature_graphic.jpg",
+            "version": "1.7.6",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-haloyazilim-needtools-3-45318899-a717aa7baa06e6d9d00e975bea276fef.apk",
-            "description": "Download Need Tools latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/bitcoin-merchant-tools-76-58105805-d440f7335ea944e275a2f82c5a12c5e9.apk",
+            "description": "Download Bitcoin Tools latest version."
         },
         {
             "name": "Hik-Connect",
@@ -628,6 +655,15 @@
             "description": "Download Hik-Connect latest version."
         },
         {
+            "name": "Need Tools",
+            "package": "com.haloyazilim.needtools",
+            "icon": "https://pool.img.aptoide.com/catappult/cce1c76f5ad224d636381d652b013f00_icon.png",
+            "version": "1.3",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-haloyazilim-needtools-3-45318899-a717aa7baa06e6d9d00e975bea276fef.apk",
+            "description": "Download Need Tools latest version."
+        },
+        {
             "name": "HTTP Tools",
             "package": "com.cafelabs.curlme",
             "icon": "https://pool.img.aptoide.com/catappult/96633318cf4b28359b5ce7821813d73c_feature_graphic.png",
@@ -635,15 +671,6 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-cafelabs-curlme-40505-59678868-f39ac4d7fa04810c76f36ccaaf7945e6.apk",
             "description": "Download HTTP Tools latest version."
-        },
-        {
-            "name": "Bitcoin Tools",
-            "package": "bitcoin.merchant.tools",
-            "icon": "https://pool.img.aptoide.com/catappult/c682817cd2324a16bba383e17fbe8245_feature_graphic.jpg",
-            "version": "1.7.6",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/bitcoin-merchant-tools-76-58105805-d440f7335ea944e275a2f82c5a12c5e9.apk",
-            "description": "Download Bitcoin Tools latest version."
         },
         {
             "name": "Advanced Tools",
