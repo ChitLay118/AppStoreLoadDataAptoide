@@ -365,13 +365,13 @@
             "description": "Download Social Networks latest version."
         },
         {
-            "name": "Tumblr",
-            "package": "com.tumblr",
-            "icon": "https://pool.img.aptoide.com/appstorevn/b7808fc11b94c9cbc857b0cf638608d2_fgraphic_705x345.png",
-            "version": "11.4.2.14",
-            "rating": 4.7,
-            "downloadUrl": "https://pool.apk.aptoide.com/appstorevn/com-tumblr-111040214-39126681-2bda36cfb47f99965a80efc3be10fc14.apk",
-            "description": "Download Tumblr latest version."
+            "name": "Peeks Social",
+            "package": "com.keek",
+            "icon": "https://pool.img.aptoide.com/madeingreatness/12fb0f7261d429e4ac8c6d820e301a4c_fgraphic.png",
+            "version": "6.2.16009",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/madeingreatness/com-keek-16009-64574358-c73aea5a7c596227307ee6b9959625e5.apk",
+            "description": "Download Peeks Social latest version."
         },
         {
             "name": "OK Live - video livestreams",
@@ -381,6 +381,15 @@
             "rating": 3.64,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/ru-ok-live-982-56708147-1511e0c001ecfaf952c90e5ed4dc61ca.apk",
             "description": "Download OK Live - video livestreams latest version."
+        },
+        {
+            "name": "Tumblr",
+            "package": "com.tumblr",
+            "icon": "https://pool.img.aptoide.com/appstorevn/b7808fc11b94c9cbc857b0cf638608d2_fgraphic_705x345.png",
+            "version": "11.4.2.14",
+            "rating": 4.7,
+            "downloadUrl": "https://pool.apk.aptoide.com/appstorevn/com-tumblr-111040214-39126681-2bda36cfb47f99965a80efc3be10fc14.apk",
+            "description": "Download Tumblr latest version."
         },
         {
             "name": "Social Attack",
@@ -401,15 +410,6 @@
             "description": "Download Automatic Social latest version."
         },
         {
-            "name": "Social star",
-            "package": "com.my.socialstar",
-            "icon": "https://pool.img.aptoide.com/catappult/1c9e9dee324cca1ed03ab973980e937d_icon.png",
-            "version": "1.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-my-socialstar-1-71618390-1a6a37eed5e671274fdef88828fff951.apk",
-            "description": "Download Social star latest version."
-        },
-        {
             "name": "Love Quotes",
             "package": "lovequotes007.love.justforu.lovequotesjustforyou",
             "icon": "https://pool.img.aptoide.com/catappult/65459cbdc335f5e79eb20b2c9ef9ae88_fgraphic.jpg",
@@ -417,6 +417,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/lovequotes007-love-justforu-lovequotesjustforyou-34-71585549-79e9a7d0f79d4b42a75312c8ff739951.apk",
             "description": "Download Love Quotes latest version."
+        },
+        {
+            "name": "Social star",
+            "package": "com.my.socialstar",
+            "icon": "https://pool.img.aptoide.com/catappult/1c9e9dee324cca1ed03ab973980e937d_icon.png",
+            "version": "1.0",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-my-socialstar-1-71618390-1a6a37eed5e671274fdef88828fff951.apk",
+            "description": "Download Social star latest version."
         },
         {
             "name": "Social Work",
@@ -437,15 +446,6 @@
             "description": "Download Social World latest version."
         },
         {
-            "name": "Social Lite",
-            "package": "com.gaff.socloud",
-            "icon": "https://pool.img.aptoide.com/catappult/c1afceb835d419068212914b33eecc64_fgraphic.jpg",
-            "version": "3.0",
-            "rating": 1,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-gaff-socloud-12-71579728-0539343eadd4bcc163a227329c388ed7.apk",
-            "description": "Download Social Lite latest version."
-        },
-        {
             "name": "Video Downloader for Instagram",
             "package": "io.jmobile.instant",
             "icon": "https://pool.img.aptoide.com/catappult/1dd306cb30c11daa8c5e79ba2e8e00ab_feature_graphic.png",
@@ -453,6 +453,15 @@
             "rating": 2.09,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/io-jmobile-instant-84-56083928-de95e12e4451f47fb7e5910a46463fea.apk",
             "description": "Download Video Downloader for Instagram latest version."
+        },
+        {
+            "name": "Social Lite",
+            "package": "com.gaff.socloud",
+            "icon": "https://pool.img.aptoide.com/catappult/c1afceb835d419068212914b33eecc64_fgraphic.jpg",
+            "version": "3.0",
+            "rating": 1,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-gaff-socloud-12-71579728-0539343eadd4bcc163a227329c388ed7.apk",
+            "description": "Download Social Lite latest version."
         },
         {
             "name": "Social Tools",
@@ -473,15 +482,6 @@
             "description": "Download SOCIAL KIT latest version."
         },
         {
-            "name": "Social Chat",
-            "package": "com.taggingplus.messenger",
-            "icon": "https://pool.img.aptoide.com/catappult/7611bd1bcd7e36f8e95ebf12c998c068_feature_graphic.png",
-            "version": "1.1.5",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-taggingplus-messenger-16-55546684-df5b55bf1386dbc19f90d89c69f4bc55.apk",
-            "description": "Download Social Chat latest version."
-        },
-        {
             "name": "GPS Phone Tracker Spy",
             "package": "com.startup.find_location",
             "icon": "https://pool.img.aptoide.com/catappult/b4f95ea71e1588cd5a64d8a17b72ebdb_fgraphic.jpg",
@@ -489,6 +489,15 @@
             "rating": 3.43,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-startup-find-location-137-49455014-894a64f6263f40d914cccfdb980b45e3.apk",
             "description": "Download GPS Phone Tracker Spy latest version."
+        },
+        {
+            "name": "Social Chat",
+            "package": "com.taggingplus.messenger",
+            "icon": "https://pool.img.aptoide.com/catappult/7611bd1bcd7e36f8e95ebf12c998c068_feature_graphic.png",
+            "version": "1.1.5",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-taggingplus-messenger-16-55546684-df5b55bf1386dbc19f90d89c69f4bc55.apk",
+            "description": "Download Social Chat latest version."
         },
         {
             "name": "Lomotif - Social Community & Editor for Creators",
@@ -509,15 +518,6 @@
             "description": "Download Flipboard: News For Any Topic latest version."
         },
         {
-            "name": "IMVU: online 3D metaverse game",
-            "package": "com.imvu.mobilecordova",
-            "icon": "https://pool.img.aptoide.com/matta621/31c37a11fc55fd243d1494b927dfc52a_fgraphic.png",
-            "version": "8.2.0.80200012",
-            "rating": 3.83,
-            "downloadUrl": "https://pool.apk.aptoide.com/matta621/com-imvu-mobilecordova-80200012-63612590-f234298a81c73190e931c77769636bde.apk",
-            "description": "Download IMVU: online 3D metaverse game latest version."
-        },
-        {
             "name": "OK Video",
             "package": "ru.ok.androidtv",
             "icon": "https://pool.img.aptoide.com/catappult/c9cf88776dc93555100d00baf794eb7e_fgraphic.png",
@@ -525,6 +525,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/ru-ok-androidtv-63-71728680-3e0d8f51e1806688a9514637e4f1ce5d.apk",
             "description": "Download OK Video latest version."
+        },
+        {
+            "name": "IMVU: online 3D metaverse game",
+            "package": "com.imvu.mobilecordova",
+            "icon": "https://pool.img.aptoide.com/matta621/31c37a11fc55fd243d1494b927dfc52a_fgraphic.png",
+            "version": "8.2.0.80200012",
+            "rating": 3.83,
+            "downloadUrl": "https://pool.apk.aptoide.com/matta621/com-imvu-mobilecordova-80200012-63612590-f234298a81c73190e931c77769636bde.apk",
+            "description": "Download IMVU: online 3D metaverse game latest version."
         },
         {
             "name": "Segurança Social",
