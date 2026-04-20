@@ -300,6 +300,15 @@
             "description": "Download 2 Player games : no wifi games latest version."
         },
         {
+            "name": "AHA Games: 10K+ Offline Games",
+            "package": "net.bat.store",
+            "icon": "https://pool.img.aptoide.com/eb2022/d96ec50d710cacc93f0c06f9c0754eda_fgraphic.png",
+            "version": "V6.3.46.1_alpha",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/eb2022/net-bat-store-3971-74429007-3d6a9afa05e6d9bdcc0b04c07a25bb6b.apk",
+            "description": "Download AHA Games: 10K+ Offline Games latest version."
+        },
+        {
             "name": "LootBoy - Grab your loot!",
             "package": "com.lootboy.app",
             "icon": "https://pool.img.aptoide.com/kocha/f330abb768cb29d37a8a45cdba158322.png",
