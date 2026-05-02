@@ -259,7 +259,7 @@
             "package": "com.google.android.play.games",
             "icon": "https://pool.img.aptoide.com/appstvcommunity/03c6a74de4e9d5c67c14e2000a9e88b5_fgraphic.png",
             "version": "2024.03.51732 (646593252.646593252-020700)",
-            "rating": 3.77,
+            "rating": 3.74,
             "downloadUrl": "https://pool.apk.aptoide.com/appstvcommunity/com-google-android-play-games-517321270-68828799-c4fd62e08349def14263791bb568fd98.apk",
             "description": "Download Google Play Games latest version."
         },
@@ -646,13 +646,13 @@
             "description": "Download Social Tools latest version."
         },
         {
-            "name": "Bitcoin Tools",
-            "package": "bitcoin.merchant.tools",
-            "icon": "https://pool.img.aptoide.com/catappult/c682817cd2324a16bba383e17fbe8245_feature_graphic.jpg",
-            "version": "1.7.6",
+            "name": "Need Tools",
+            "package": "com.haloyazilim.needtools",
+            "icon": "https://pool.img.aptoide.com/catappult/cce1c76f5ad224d636381d652b013f00_icon.png",
+            "version": "1.3",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/bitcoin-merchant-tools-76-58105805-d440f7335ea944e275a2f82c5a12c5e9.apk",
-            "description": "Download Bitcoin Tools latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-haloyazilim-needtools-3-45318899-a717aa7baa06e6d9d00e975bea276fef.apk",
+            "description": "Download Need Tools latest version."
         },
         {
             "name": "Hik-Connect",
@@ -664,15 +664,6 @@
             "description": "Download Hik-Connect latest version."
         },
         {
-            "name": "Need Tools",
-            "package": "com.haloyazilim.needtools",
-            "icon": "https://pool.img.aptoide.com/catappult/cce1c76f5ad224d636381d652b013f00_icon.png",
-            "version": "1.3",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-haloyazilim-needtools-3-45318899-a717aa7baa06e6d9d00e975bea276fef.apk",
-            "description": "Download Need Tools latest version."
-        },
-        {
             "name": "HTTP Tools",
             "package": "com.cafelabs.curlme",
             "icon": "https://pool.img.aptoide.com/catappult/96633318cf4b28359b5ce7821813d73c_feature_graphic.png",
@@ -680,6 +671,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-cafelabs-curlme-40505-59678868-f39ac4d7fa04810c76f36ccaaf7945e6.apk",
             "description": "Download HTTP Tools latest version."
+        },
+        {
+            "name": "Bitcoin Tools",
+            "package": "bitcoin.merchant.tools",
+            "icon": "https://pool.img.aptoide.com/catappult/c682817cd2324a16bba383e17fbe8245_feature_graphic.jpg",
+            "version": "1.7.6",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/bitcoin-merchant-tools-76-58105805-d440f7335ea944e275a2f82c5a12c5e9.apk",
+            "description": "Download Bitcoin Tools latest version."
         },
         {
             "name": "Advanced Tools",
