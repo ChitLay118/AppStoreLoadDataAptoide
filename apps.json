@@ -282,6 +282,15 @@
             "description": "Download Games latest version."
         },
         {
+            "name": "Survival Games",
+            "package": "com.sandboxol.indiegame.survivalgames",
+            "icon": "https://pool.img.aptoide.com/superpocket/ffe7a256482c7fc4bb1883312728fb5e_fgraphic.png",
+            "version": "1.9.33.2",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/superpocket/com-sandboxol-indiegame-survivalgames-4732-74679217-d3a0650e88b49a6c3ea01e305aa874d1.apk",
+            "description": "Download Survival Games latest version."
+        },
+        {
             "name": "HAWK: Airplane Space games",
             "package": "com.my.hawk.air.shooter",
             "icon": "https://pool.img.aptoide.com/appupdater/4583e885bdf94c8020d6190fa6e8e088_fgraphic.png",
