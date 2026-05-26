@@ -637,15 +637,6 @@
             "description": "Download Tools programmer latest version."
         },
         {
-            "name": "Pipefitter Tools",
-            "package": "com.odesk.calculator",
-            "icon": "https://pool.img.aptoide.com/appupdater/81ee7f81221a215eb7e5f742abb4d31c_fgraphic.png",
-            "version": "2.7.9",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-odesk-calculator-57-66344733-404b0bc69a723c3aefa9c9b2a92239e8.apk",
-            "description": "Download Pipefitter Tools latest version."
-        },
-        {
             "name": "NFC Tools",
             "package": "com.wakdev.wdnfc",
             "icon": "https://pool.img.aptoide.com/catappult/45a418601bd8fc26a6f39afffbe57d1f_fgraphic.png",
@@ -653,6 +644,15 @@
             "rating": 2.75,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wakdev-wdnfc-149-74437785-2b251ecfc7403c5c1c0af3cbace999c3.apk",
             "description": "Download NFC Tools latest version."
+        },
+        {
+            "name": "Pipefitter Tools",
+            "package": "com.odesk.calculator",
+            "icon": "https://pool.img.aptoide.com/appupdater/81ee7f81221a215eb7e5f742abb4d31c_fgraphic.png",
+            "version": "2.7.9",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-odesk-calculator-57-66344733-404b0bc69a723c3aefa9c9b2a92239e8.apk",
+            "description": "Download Pipefitter Tools latest version."
         },
         {
             "name": "WiFi App: passwords, hotspots",
