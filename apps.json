@@ -374,13 +374,13 @@
             "description": "Download OK: Social Network latest version."
         },
         {
-            "name": "Tumblr",
+            "name": "Tumblr: Social Media & Art",
             "package": "com.tumblr",
-            "icon": "https://pool.img.aptoide.com/appstorevn/b7808fc11b94c9cbc857b0cf638608d2_fgraphic_705x345.png",
-            "version": "11.4.2.14",
-            "rating": 4.7,
-            "downloadUrl": "https://pool.apk.aptoide.com/appstorevn/com-tumblr-111040214-39126681-2bda36cfb47f99965a80efc3be10fc14.apk",
-            "description": "Download Tumblr latest version."
+            "icon": "https://pool.img.aptoide.com/djaystiney/1a490ad5c6bebcc1d37507889d5fabf6_fgraphic.png",
+            "version": "37.0.0.108",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/djaystiney/com-tumblr-999999999-75041295-78c6aa7c8111d4db6c22c3649fbb4cdc.apk",
+            "description": "Download Tumblr: Social Media & Art latest version."
         },
         {
             "name": "Social Networks",
