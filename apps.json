@@ -210,6 +210,15 @@
             "description": "Download Aptoide Games latest version."
         },
         {
+            "name": "Likee-Live, Chat & Party Games",
+            "package": "video.like",
+            "icon": "https://pool.img.aptoide.com/appupdater/767d65d4f6da391ee088673812fd6a98_fgraphic.jpg",
+            "version": "5.58.0",
+            "rating": 3.67,
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/video-like-7482-75127177-669ee9947db5edbe4af63f7d62f7a7ff.apk",
+            "description": "Download Likee-Live, Chat & Party Games latest version."
+        },
+        {
             "name": "Bingo Holiday: Bingo Games",
             "package": "com.arcadegame.games.bingo.holiday.free.slots.bash",
             "icon": "https://pool.img.aptoide.com/catappult/5da66256bda7dbf87957e64a10a7db75_fgraphic.png",
@@ -352,15 +361,6 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-puzzlegames13-6-46993691-6bf7b249c36dfbbad3cd7c5f8fb1f704.apk",
             "description": "Download Puzzle Games latest version."
-        },
-        {
-            "name": "Christmas Games",
-            "package": "kidgames.christmas.pack",
-            "icon": "https://pool.img.aptoide.com/catappult/186f6818d97632d2c841ff84409f951b_fgraphic.jpg",
-            "version": "76",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/kidgames-christmas-pack-76-72281066-69649eeffd8e0f7169bf328d285e1481.apk",
-            "description": "Download Christmas Games latest version."
         }
     ],
     "Social": [
