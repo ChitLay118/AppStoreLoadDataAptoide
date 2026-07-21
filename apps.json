@@ -19,13 +19,13 @@
             "description": "Download Popular Video latest version."
         },
         {
-            "name": "POPULAR Magazine",
-            "package": "com.popularworld",
-            "icon": "https://pool.img.aptoide.com/appupdater/b3bb8a5abdbeed9076f676ab66c3217d_fgraphic.png",
-            "version": "5.4.1",
+            "name": "Popular SG",
+            "package": "sg.com.popular.memberapp",
+            "icon": "https://pool.img.aptoide.com/appupdater/71f51bb95075c04ac02d557dd05a6b33_fgraphic.jpg",
+            "version": "1.21.5",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-popularworld-54011-67703339-27643b67842c6093a87a72340bcb3103.apk",
-            "description": "Download POPULAR Magazine latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/sg-com-popular-memberapp-1034-75308908-70cb28674a1dcc195d6dee081fe26a00.apk",
+            "description": "Download Popular SG latest version."
         },
         {
             "name": "Dubstep Drum Pads Guru",
@@ -37,24 +37,6 @@
             "description": "Download Dubstep Drum Pads Guru latest version."
         },
         {
-            "name": "Popular Car Driving",
-            "package": "com.OppanaGames.Solaris",
-            "icon": "https://pool.img.aptoide.com/catappult/c7d53639b7890542c65727f4d5e6ab71_fgraphic.png",
-            "version": "1.6",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-oppanagames-solaris-7-69993353-36a1e8dadb224ce398f82437d786f226.apk",
-            "description": "Download Popular Car Driving latest version."
-        },
-        {
-            "name": "Popular SG",
-            "package": "sg.com.popular.memberapp",
-            "icon": "https://pool.img.aptoide.com/appupdater/71f51bb95075c04ac02d557dd05a6b33_fgraphic.jpg",
-            "version": "1.21.5",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/sg-com-popular-memberapp-1034-75308908-70cb28674a1dcc195d6dee081fe26a00.apk",
-            "description": "Download Popular SG latest version."
-        },
-        {
             "name": "Popular mods for Minecraft",
             "package": "bestmods.for.mcpe",
             "icon": "https://pool.img.aptoide.com/catappult/de95ac582453520006dfd0fa01de3026_feature_graphic.png",
@@ -62,15 +44,6 @@
             "rating": 1,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/bestmods-for-mcpe-17-59605469-1d9513ecea38928c95091cd6bd3aa987.apk",
             "description": "Download Popular mods for Minecraft latest version."
-        },
-        {
-            "name": "Trap Drum Pads Guru",
-            "package": "com.chebdev.trapdrumpadsguru",
-            "icon": "https://pool.img.aptoide.com/catappult/702a3ddbfceaefe10f9693830dc266ee_fgraphic.png",
-            "version": "1.21",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-chebdev-trapdrumpadsguru-21-71724235-aa25c63f2700715885689472fefea744.apk",
-            "description": "Download Trap Drum Pads Guru latest version."
         },
         {
             "name": "Popular Cool Music Ringtones",
@@ -91,6 +64,15 @@
             "description": "Download Popular Wallpapers latest version."
         },
         {
+            "name": "Trap Drum Pads Guru",
+            "package": "com.chebdev.trapdrumpadsguru",
+            "icon": "https://pool.img.aptoide.com/catappult/702a3ddbfceaefe10f9693830dc266ee_fgraphic.png",
+            "version": "1.21",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-chebdev-trapdrumpadsguru-21-71724235-aa25c63f2700715885689472fefea744.apk",
+            "description": "Download Trap Drum Pads Guru latest version."
+        },
+        {
             "name": "Popular Kids Nursery Rhymes",
             "package": "com.winjit.popular_collection_of_nurseryrhymes",
             "icon": "https://pool.img.aptoide.com/catappult/276e6520549a295e49eef4face423ee9_feature_graphic.jpg",
@@ -98,24 +80,6 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-winjit-popular-collection-of-nurseryrhymes-24-51486743-d6494b7b78f745910721e47ee4b6a9d0.apk",
             "description": "Download Popular Kids Nursery Rhymes latest version."
-        },
-        {
-            "name": "Hip-Hop Drum Pads Guru",
-            "package": "com.chebdev.hiphopdrumpadsguru",
-            "icon": "https://pool.img.aptoide.com/catappult/24d87cf57b4afb0653be14ff57ac5b0b_fgraphic.png",
-            "version": "1.21",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-chebdev-hiphopdrumpadsguru-21-71724236-50df768ddd5b0d231be528bd83a1b180.apk",
-            "description": "Download Hip-Hop Drum Pads Guru latest version."
-        },
-        {
-            "name": "NEW-Most Popular Ringtones",
-            "package": "com.andromo.dev545020.app519034",
-            "icon": "https://pool.img.aptoide.com/catappult/4bdbeb6d35901ee446269c72403ef36e_feature_graphic.png",
-            "version": "1.1",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-andromo-dev545020-app519034-5-46088604-8dc15a0aa7fb20e8284beb3e6e3a80b6.apk",
-            "description": "Download NEW-Most Popular Ringtones latest version."
         },
         {
             "name": "Video download app - Popular downloader",
@@ -136,31 +100,13 @@
             "description": "Download Popular Movies latest version."
         },
         {
-            "name": "Drum Pads Guru",
-            "package": "com.chebdev.drumpadsguru",
-            "icon": "https://pool.img.aptoide.com/catappult/c283fc02a6b3d5af939c62b9d28c319d_fgraphic.png",
-            "version": "1.33",
+            "name": "Hip-Hop Drum Pads Guru",
+            "package": "com.chebdev.hiphopdrumpadsguru",
+            "icon": "https://pool.img.aptoide.com/catappult/24d87cf57b4afb0653be14ff57ac5b0b_fgraphic.png",
+            "version": "1.21",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-chebdev-drumpadsguru-33-71724238-e6073821cc4b7d9a98e1551dbc4433db.apk",
-            "description": "Download Drum Pads Guru latest version."
-        },
-        {
-            "name": "Popular Skins for Minecraft PE",
-            "package": "com.klimbo.popularskinsforminecraft",
-            "icon": "https://pool.img.aptoide.com/catappult/368c29cdb5127c5c8f30f90833d868bf_feature_graphic.png",
-            "version": "1.0.0.130",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-klimbo-popularskinsforminecraft-100130-49357270-e1941633773f6505f5a970589bf0fc59.apk",
-            "description": "Download Popular Skins for Minecraft PE latest version."
-        },
-        {
-            "name": "Search in popular video hosting",
-            "package": "rgv.project.youtubesearch",
-            "icon": "https://pool.img.aptoide.com/catappult/ef0c9387beabf275caca8ac925722e68_fgraphic.png",
-            "version": "1.8",
-            "rating": 1,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/rgv-project-youtubesearch-9-66526017-ff72fec7770efd97749b16dd69238716.apk",
-            "description": "Download Search in popular video hosting latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-chebdev-hiphopdrumpadsguru-21-71724236-50df768ddd5b0d231be528bd83a1b180.apk",
+            "description": "Download Hip-Hop Drum Pads Guru latest version."
         },
         {
             "name": "Sanfara Music 🎵 most popular",
@@ -172,15 +118,6 @@
             "description": "Download Sanfara Music 🎵 most popular latest version."
         },
         {
-            "name": "Mexican radio online",
-            "package": "an.MexicanRadio",
-            "icon": "https://pool.img.aptoide.com/catappult/7becd9b6b022037b70a9cb30cbc3db34_fgraphic.png",
-            "version": "26.6.2",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/an-mexicanradio-64-75332951-42f712868a129eee7b4294fd5c7f3181.apk",
-            "description": "Download Mexican radio online latest version."
-        },
-        {
             "name": "Ringtones - Most Popular Collections",
             "package": "vn.most.popular.ringtones",
             "icon": "https://pool.img.aptoide.com/catappult/5dd175be7093d27fb9b71e76b8457a64_fgraphic.png",
@@ -188,18 +125,36 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/vn-most-popular-ringtones-6-71599784-9196bd554b6c777142dceb6e3f221ad4.apk",
             "description": "Download Ringtones - Most Popular Collections latest version."
+        },
+        {
+            "name": "GoViral Videos - Become Popular",
+            "package": "com.bianextevolution.goviralvideos",
+            "icon": "https://pool.img.aptoide.com/catappult/7d3ed5507bd563b42c3e0f0ef931017e_feature_graphic.png",
+            "version": "1.0",
+            "rating": 5,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-bianextevolution-goviralvideos-1-53039210-b2aed15fde4d40bddcb9cd3fb1443010.apk",
+            "description": "Download GoViral Videos - Become Popular latest version."
+        },
+        {
+            "name": "Drum Pads Guru",
+            "package": "com.chebdev.drumpadsguru",
+            "icon": "https://pool.img.aptoide.com/catappult/c283fc02a6b3d5af939c62b9d28c319d_fgraphic.png",
+            "version": "1.33",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-chebdev-drumpadsguru-33-71724238-e6073821cc4b7d9a98e1551dbc4433db.apk",
+            "description": "Download Drum Pads Guru latest version."
+        },
+        {
+            "name": "War is Popular",
+            "package": "war.ispopular",
+            "icon": "https://pool.img.aptoide.com/catappult/f30cce7c65c2f8259ebf2e7422944ee3_fgraphic.jpg",
+            "version": "9.8",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/war-ispopular-1-58254133-8296e8935e1a0f5a092a27453ea90e6a.apk",
+            "description": "Download War is Popular latest version."
         }
     ],
     "Game": [
-        {
-            "name": "Aptoide Games",
-            "package": "com.aptoide.android.aptoidegames",
-            "icon": "https://pool.img.aptoide.com/carolyne-silva/f02852405eb8caaacc52feedff2c186c_fgraphic.png",
-            "version": "1.20.0",
-            "rating": 4.44,
-            "downloadUrl": "https://pool.apk.aptoide.com/carolyne-silva/com-aptoide-android-aptoidegames-642-75560271-09dd4657a0d7dc5fb1b16ef55339042e.apk",
-            "description": "Download Aptoide Games latest version."
-        },
         {
             "name": "Likee-Live, Chat & Party Games",
             "package": "video.like",
@@ -226,6 +181,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/aptoide-apparena/com-glu-zbs-398168050-75569975-1c75958882c25b9ecf73172aa2247ac5.apk",
             "description": "Download Left to Survive: Zombie Games latest version."
+        },
+        {
+            "name": "IPTV Player",
+            "package": "com.television.iptv",
+            "icon": "https://pool.img.aptoide.com/catappult/ed24596793807796fffd26cab2172f66_fgraphic.png",
+            "version": "1.0c",
+            "rating": 3.38,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-television-iptv-29-71622121-38e4d59e7157c5e2a90ff9a19babc796.apk",
+            "description": "Download IPTV Player latest version."
         },
         {
             "name": "1001 Games (with chat)",
@@ -255,6 +219,15 @@
             "description": "Download Games latest version."
         },
         {
+            "name": "Y2mate YouTube Videos Downloader",
+            "package": "com.tranquilapps.ogyoutube",
+            "icon": "https://pool.img.aptoide.com/catappult/305fda1457bffb006a24574a67a836fd_feature_graphic.jpg",
+            "version": "16.33",
+            "rating": 3.18,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-tranquilapps-ogyoutube-1014-51222503-5592dd940f2b0c9f16662b0142c4900b.apk",
+            "description": "Download Y2mate YouTube Videos Downloader latest version."
+        },
+        {
             "name": "Hooked Inc: Fishing Games",
             "package": "se.ace.fishinc",
             "icon": "https://pool.img.aptoide.com/superpocket/06c4af472818782c9eff0f1ac4d83ebd_fgraphic.png",
@@ -280,6 +253,15 @@
             "rating": 5,
             "downloadUrl": "https://pool.apk.aptoide.com/superpocket/com-jindoblu-twoplayergameschallenge-3269-75383556-4675cbc5753ca68efc01e2f39207a41c.apk",
             "description": "Download 2 Player games : no wifi games latest version."
+        },
+        {
+            "name": "EZ Web Video Cast | Chromecast",
+            "package": "com.hecorat.videocast",
+            "icon": "https://pool.img.aptoide.com/catappult/7238ed0fa83c8baad597e633c7c1378d_feature_graphic.png",
+            "version": "1.1",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hecorat-videocast-6-59662071-bd55c0cb09a1d84c5258198ed00f4825.apk",
+            "description": "Download EZ Web Video Cast | Chromecast latest version."
         },
         {
             "name": "AHA Games: 10K+ Offline Games",
@@ -309,6 +291,15 @@
             "description": "Download Galaxy - Chat Rooms: Meet New People Online & Date latest version."
         },
         {
+            "name": "USB/Web Camera",
+            "package": "com.svprdga.usbwebcamera",
+            "icon": "https://pool.img.aptoide.com/catappult/1ddeeb52988e4ba5161ce05067648d07_fgraphic.png",
+            "version": "1.2.0",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-svprdga-usbwebcamera-3-71595626-10c972b20000a7585f26345ea3d222e2.apk",
+            "description": "Download USB/Web Camera latest version."
+        },
+        {
             "name": "Alphabet Games",
             "package": "kidgames.abc.pack",
             "icon": "https://pool.img.aptoide.com/catappult/f953d47560766a79b52d4c5516d300ad_fgraphic.png",
@@ -325,18 +316,36 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-puzzlegames13-6-46993691-6bf7b249c36dfbbad3cd7c5f8fb1f704.apk",
             "description": "Download Puzzle Games latest version."
+        },
+        {
+            "name": "Christmas Games",
+            "package": "kidgames.christmas.pack",
+            "icon": "https://pool.img.aptoide.com/catappult/186f6818d97632d2c841ff84409f951b_fgraphic.jpg",
+            "version": "76",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/kidgames-christmas-pack-76-72281066-69649eeffd8e0f7169bf328d285e1481.apk",
+            "description": "Download Christmas Games latest version."
+        },
+        {
+            "name": "Livestream TV - M3U Stream Player IPTV",
+            "package": "com.onecode.livestream.iptv",
+            "icon": "https://pool.img.aptoide.com/catappult/432444eb8fa0144e9f2c957ecafc6976_fgraphic.jpg",
+            "version": "3.3.1.7c",
+            "rating": 4.6,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-onecode-livestream-iptv-48-51801039-727fe1ba768b6f8cec0fb2175fba272d.apk",
+            "description": "Download Livestream TV - M3U Stream Player IPTV latest version."
+        },
+        {
+            "name": "FRIP Games",
+            "package": "com.roarapps.fripgames",
+            "icon": "https://pool.img.aptoide.com/catappult/1fc29b9c884627f874a567e80b6c907d_fgraphic.png",
+            "version": "6.0",
+            "rating": 5,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-roarapps-fripgames-6-47612371-c3328bd098459e809b31033259d8b91a.apk",
+            "description": "Download FRIP Games latest version."
         }
     ],
     "Social": [
-        {
-            "name": "OK: Social Network",
-            "package": "ru.ok.android",
-            "icon": "https://pool.img.aptoide.com/appupdater/fe999f808e2603637790ecbf521e3ec1_fgraphic.jpg",
-            "version": "23.8.2",
-            "rating": 2.56,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/ru-ok-android-23080200-70038738-147073bca2f1f1fd519eff7d43902f28.apk",
-            "description": "Download OK: Social Network latest version."
-        },
         {
             "name": "Tumblr",
             "package": "com.tumblr",
@@ -345,33 +354,6 @@
             "rating": 4.7,
             "downloadUrl": "https://pool.apk.aptoide.com/appstorevn/com-tumblr-111040214-39126681-2bda36cfb47f99965a80efc3be10fc14.apk",
             "description": "Download Tumblr latest version."
-        },
-        {
-            "name": "Social Networks",
-            "package": "redes.sociales.social.networks",
-            "icon": "https://pool.img.aptoide.com/catappult/842f03f864bfd610572bcfe6c83113c2_feature_graphic.png",
-            "version": "2020.1.1",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/redes-sociales-social-networks-3-56288062-5477eb201d89c827fd32f1e08337d623.apk",
-            "description": "Download Social Networks latest version."
-        },
-        {
-            "name": "OK Live - video livestreams",
-            "package": "ru.ok.live",
-            "icon": "https://pool.img.aptoide.com/catappult/962ad562694dd1a31d252b5f1ff4d0e7_fgraphic.png",
-            "version": "1.6.20c",
-            "rating": 3.64,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/ru-ok-live-982-56708147-1511e0c001ecfaf952c90e5ed4dc61ca.apk",
-            "description": "Download OK Live - video livestreams latest version."
-        },
-        {
-            "name": "Peeks Social",
-            "package": "com.keek",
-            "icon": "https://pool.img.aptoide.com/madeingreatness/12fb0f7261d429e4ac8c6d820e301a4c_fgraphic.png",
-            "version": "6.2.16009",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/madeingreatness/com-keek-16009-64574358-c73aea5a7c596227307ee6b9959625e5.apk",
-            "description": "Download Peeks Social latest version."
         },
         {
             "name": "Social World",
@@ -392,13 +374,13 @@
             "description": "Download Social Lite latest version."
         },
         {
-            "name": "Love Quotes",
-            "package": "lovequotes007.love.justforu.lovequotesjustforyou",
-            "icon": "https://pool.img.aptoide.com/catappult/65459cbdc335f5e79eb20b2c9ef9ae88_fgraphic.jpg",
-            "version": "3.3.7",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/lovequotes007-love-justforu-lovequotesjustforyou-34-71585549-79e9a7d0f79d4b42a75312c8ff739951.apk",
-            "description": "Download Love Quotes latest version."
+            "name": "OK Live - video livestreams",
+            "package": "ru.ok.live",
+            "icon": "https://pool.img.aptoide.com/catappult/962ad562694dd1a31d252b5f1ff4d0e7_fgraphic.png",
+            "version": "1.6.20c",
+            "rating": 3.64,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/ru-ok-live-982-56708147-1511e0c001ecfaf952c90e5ed4dc61ca.apk",
+            "description": "Download OK Live - video livestreams latest version."
         },
         {
             "name": "Social Tools",
@@ -428,13 +410,13 @@
             "description": "Download Social Chat latest version."
         },
         {
-            "name": "Video Downloader for Instagram",
-            "package": "io.jmobile.instant",
-            "icon": "https://pool.img.aptoide.com/catappult/1dd306cb30c11daa8c5e79ba2e8e00ab_feature_graphic.png",
-            "version": "1.2.27c",
-            "rating": 2.09,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/io-jmobile-instant-84-56083928-de95e12e4451f47fb7e5910a46463fea.apk",
-            "description": "Download Video Downloader for Instagram latest version."
+            "name": "Love Quotes",
+            "package": "lovequotes007.love.justforu.lovequotesjustforyou",
+            "icon": "https://pool.img.aptoide.com/catappult/65459cbdc335f5e79eb20b2c9ef9ae88_fgraphic.jpg",
+            "version": "3.3.7",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/lovequotes007-love-justforu-lovequotesjustforyou-34-71585549-79e9a7d0f79d4b42a75312c8ff739951.apk",
+            "description": "Download Love Quotes latest version."
         },
         {
             "name": "Social Attack",
@@ -464,13 +446,13 @@
             "description": "Download Social star latest version."
         },
         {
-            "name": "GPS Phone Tracker Spy",
-            "package": "com.startup.find_location",
-            "icon": "https://pool.img.aptoide.com/catappult/b4f95ea71e1588cd5a64d8a17b72ebdb_fgraphic.jpg",
-            "version": "12.9.7",
-            "rating": 3.43,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-startup-find-location-137-49455014-894a64f6263f40d914cccfdb980b45e3.apk",
-            "description": "Download GPS Phone Tracker Spy latest version."
+            "name": "Video Downloader for Instagram",
+            "package": "io.jmobile.instant",
+            "icon": "https://pool.img.aptoide.com/catappult/1dd306cb30c11daa8c5e79ba2e8e00ab_feature_graphic.png",
+            "version": "1.2.27c",
+            "rating": 2.09,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/io-jmobile-instant-84-56083928-de95e12e4451f47fb7e5910a46463fea.apk",
+            "description": "Download Video Downloader for Instagram latest version."
         },
         {
             "name": "Social Work",
@@ -500,49 +482,22 @@
             "description": "Download Flipboard: News For Any Topic latest version."
         },
         {
-            "name": "OK Video",
-            "package": "ru.ok.androidtv",
-            "icon": "https://pool.img.aptoide.com/catappult/c9cf88776dc93555100d00baf794eb7e_fgraphic.png",
-            "version": "1.15.4",
+            "name": "GPS Phone Tracker Spy",
+            "package": "com.startup.find_location",
+            "icon": "https://pool.img.aptoide.com/catappult/b4f95ea71e1588cd5a64d8a17b72ebdb_fgraphic.jpg",
+            "version": "12.9.7",
+            "rating": 3.43,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-startup-find-location-137-49455014-894a64f6263f40d914cccfdb980b45e3.apk",
+            "description": "Download GPS Phone Tracker Spy latest version."
+        },
+        {
+            "name": "Social Bicycles",
+            "package": "com.socialbicycles.app",
+            "icon": "https://pool.img.aptoide.com/appupdater/cc86e648e71c706099f04b3cbd0e7dd8.png",
+            "version": "3.3.0.1",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/ru-ok-androidtv-63-71728680-3e0d8f51e1806688a9514637e4f1ce5d.apk",
-            "description": "Download OK Video latest version."
-        },
-        {
-            "name": "IMVU: online 3D metaverse game",
-            "package": "com.imvu.mobilecordova",
-            "icon": "https://pool.img.aptoide.com/matta621/31c37a11fc55fd243d1494b927dfc52a_fgraphic.png",
-            "version": "8.2.0.80200012",
-            "rating": 3.83,
-            "downloadUrl": "https://pool.apk.aptoide.com/matta621/com-imvu-mobilecordova-80200012-63612590-f234298a81c73190e931c77769636bde.apk",
-            "description": "Download IMVU: online 3D metaverse game latest version."
-        },
-        {
-            "name": "Segurança Social",
-            "package": "pt.segsocial.mobile.segurancasocial",
-            "icon": "https://pool.img.aptoide.com/sublime2020/08cb9ef207a53cc23a8e626e0a247533.png",
-            "version": "1.2.20",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/sublime2020/pt-segsocial-mobile-segurancasocial-10002200-55998529-24e87e6470f381b4e7766a98b47964a5.apk",
-            "description": "Download Segurança Social latest version."
-        },
-        {
-            "name": "YoYo Social",
-            "package": "com.tguru.no",
-            "icon": "https://pool.img.aptoide.com/appupdater/361eb2924781e9509cd5b8bd3d647875_fgraphic.png",
-            "version": "5.3",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-tguru-no-53-67629885-2c69d799f066ed959962327bd7860f3b.apk",
-            "description": "Download YoYo Social latest version."
-        },
-        {
-            "name": "Знакомься ВКонтакте",
-            "package": "com.hippeis.dating",
-            "icon": "https://pool.img.aptoide.com/catappult/9c37483653bc002257dbcf2806418b18_feature_graphic.jpg",
-            "version": "1.48c",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hippeis-dating-48-50235218-7af49e2cad9c2499350b9bbb365a80ce.apk",
-            "description": "Download Знакомься ВКонтакте latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-socialbicycles-app-3301-75498016-64fd698d92c09aa01c8e72b2d546e73f.apk",
+            "description": "Download Social Bicycles latest version."
         }
     ],
     "Tool": [
@@ -583,42 +538,6 @@
             "description": "Download dr.fone - Recovery & Transfer wirelessly & Backup latest version."
         },
         {
-            "name": "Tools programmer",
-            "package": "com.do_apps.catalog_142",
-            "icon": "https://pool.img.aptoide.com/13ftw13/edb6ab1a386a39935ed1a1137cad8949.png",
-            "version": "8.5.4",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/13ftw13/com-do-apps-catalog-142-805040-54110415-6975a6cc00db65832f0988ed6bcf11ac.apk",
-            "description": "Download Tools programmer latest version."
-        },
-        {
-            "name": "NFC Tools",
-            "package": "com.wakdev.wdnfc",
-            "icon": "https://pool.img.aptoide.com/catappult/45a418601bd8fc26a6f39afffbe57d1f_fgraphic.png",
-            "version": "9.5",
-            "rating": 2.75,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wakdev-wdnfc-151-75456324-263db99181cf0230fe63bab1d6c3d16a.apk",
-            "description": "Download NFC Tools latest version."
-        },
-        {
-            "name": "Pipefitter Tools",
-            "package": "com.odesk.calculator",
-            "icon": "https://pool.img.aptoide.com/appupdater/81ee7f81221a215eb7e5f742abb4d31c_fgraphic.png",
-            "version": "2.7.9",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-odesk-calculator-57-66344733-404b0bc69a723c3aefa9c9b2a92239e8.apk",
-            "description": "Download Pipefitter Tools latest version."
-        },
-        {
-            "name": "WiFi App: passwords, hotspots",
-            "package": "com.osmino.wifil",
-            "icon": "https://pool.img.aptoide.com/catappult/873531eda58f23bd7f7690f48f2b64ae_fgraphic.jpg",
-            "version": "v2025.6.18.2873567",
-            "rating": 3,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifil-2873567-71720217-bc96905b725cb290a3be20385473058a.apk",
-            "description": "Download WiFi App: passwords, hotspots latest version."
-        },
-        {
             "name": "Talking Olivia Ostrich Lady",
             "package": "com.kauf.talking.oliviaostrich",
             "icon": "https://pool.img.aptoide.com/catappult/e289aeaf5931d1d3ff89e4ebd6177653_feature_graphic.jpg",
@@ -646,13 +565,13 @@
             "description": "Download Need Tools latest version."
         },
         {
-            "name": "Hik-Connect",
-            "package": "com.hikvision.hikconnect",
-            "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
-            "version": "3.11.1.1023",
-            "rating": 2.93,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hikvision-hikconnect-89-51398311-0cc5e2d747da7bbe21987674d39648d2.apk",
-            "description": "Download Hik-Connect latest version."
+            "name": "WiFi App: passwords, hotspots",
+            "package": "com.osmino.wifil",
+            "icon": "https://pool.img.aptoide.com/catappult/873531eda58f23bd7f7690f48f2b64ae_fgraphic.jpg",
+            "version": "v2025.6.18.2873567",
+            "rating": 3,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifil-2873567-71720217-bc96905b725cb290a3be20385473058a.apk",
+            "description": "Download WiFi App: passwords, hotspots latest version."
         },
         {
             "name": "HTTP Tools",
@@ -664,15 +583,6 @@
             "description": "Download HTTP Tools latest version."
         },
         {
-            "name": "Bitcoin Tools",
-            "package": "bitcoin.merchant.tools",
-            "icon": "https://pool.img.aptoide.com/catappult/c682817cd2324a16bba383e17fbe8245_feature_graphic.jpg",
-            "version": "1.7.6",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/bitcoin-merchant-tools-76-58105805-d440f7335ea944e275a2f82c5a12c5e9.apk",
-            "description": "Download Bitcoin Tools latest version."
-        },
-        {
             "name": "Advanced Tools",
             "package": "scd.atools",
             "icon": "https://pool.img.aptoide.com/appupdater/7d7f7312231e3e64ddbd43d71014fe68_fgraphic.png",
@@ -682,15 +592,6 @@
             "description": "Download Advanced Tools latest version."
         },
         {
-            "name": "Advanced Download Manager",
-            "package": "com.dv.adm",
-            "icon": "https://pool.img.aptoide.com/catappult/d3caf6f3de085ffc3b80179504526737_feature_graphic.png",
-            "version": "7.33oc",
-            "rating": 4.31,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-dv-adm-73312-55968942-c1b9ca03afa2db9a0809b11069dba980.apk",
-            "description": "Download Advanced Download Manager latest version."
-        },
-        {
             "name": "RC Tools",
             "package": "be.hcpl.android.sda",
             "icon": "https://pool.img.aptoide.com/appupdater/2d46d14ae81a5be41df50f8e8ae80238_fgraphic.png",
@@ -698,6 +599,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/appupdater/be-hcpl-android-sda-30-72393201-45eb0d99b97d3797e3d90882de48466f.apk",
             "description": "Download RC Tools latest version."
+        },
+        {
+            "name": "Hik-Connect",
+            "package": "com.hikvision.hikconnect",
+            "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
+            "version": "3.11.1.1023",
+            "rating": 2.93,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hikvision-hikconnect-89-51398311-0cc5e2d747da7bbe21987674d39648d2.apk",
+            "description": "Download Hik-Connect latest version."
         },
         {
             "name": "File Tools",
@@ -718,15 +628,6 @@
             "description": "Download Growtopia Tools latest version."
         },
         {
-            "name": "WiFi: passwords, hotspots",
-            "package": "com.osmino.wifilight",
-            "icon": "https://pool.img.aptoide.com/catappult/63fed9b7acc56bdc85122eaf4769ba59_fgraphic.png",
-            "version": "v2025.3.31.2759735",
-            "rating": 3.67,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifilight-2759735-71720216-b0d1a76b5250c496963f7a260464b87b.apk",
-            "description": "Download WiFi: passwords, hotspots latest version."
-        },
-        {
             "name": "Tools Trades",
             "package": "com.app.prevumrmlkxicjvhbjtkngsdqznpcuyybaoxqdefg",
             "icon": "https://pool.img.aptoide.com/appupdater/584f7fb3ef2cce6e94f7bf82dac6e374_fgraphic.png",
@@ -734,6 +635,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-app-prevumrmlkxicjvhbjtkngsdqznpcuyybaoxqdefg-70-61020138-b2c7e3bbfbfa2f66cd01d91a6dc87ed9.apk",
             "description": "Download Tools Trades latest version."
+        },
+        {
+            "name": "Advanced Download Manager",
+            "package": "com.dv.adm",
+            "icon": "https://pool.img.aptoide.com/catappult/d3caf6f3de085ffc3b80179504526737_feature_graphic.png",
+            "version": "7.33oc",
+            "rating": 4.31,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-dv-adm-73312-55968942-c1b9ca03afa2db9a0809b11069dba980.apk",
+            "description": "Download Advanced Download Manager latest version."
         },
         {
             "name": "VEGA Tools",
@@ -752,6 +662,51 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/split-store/com-do-apps-catalog-264-805040-50476412-8b0cd5d04e3b732bdfbb4084699881c0.apk",
             "description": "Download Hand tools latest version."
+        },
+        {
+            "name": "Mind Tools",
+            "package": "com.mindtools.mt_app",
+            "icon": "https://pool.img.aptoide.com/anthony-convery/c84094c809919454f7fb50edf6bf5b2c.png",
+            "version": "5.1.4",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/anthony-convery/com-mindtools-mt-app-498000012-51051697-45349bb247ab2356b5288d650829516b.apk",
+            "description": "Download Mind Tools latest version."
+        },
+        {
+            "name": "WiFi: passwords, hotspots",
+            "package": "com.osmino.wifilight",
+            "icon": "https://pool.img.aptoide.com/catappult/63fed9b7acc56bdc85122eaf4769ba59_fgraphic.png",
+            "version": "v2025.3.31.2759735",
+            "rating": 3.67,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifilight-2759735-71720216-b0d1a76b5250c496963f7a260464b87b.apk",
+            "description": "Download WiFi: passwords, hotspots latest version."
+        },
+        {
+            "name": "PDF Tools",
+            "package": "com.aconvert.pdftools",
+            "icon": "https://pool.img.aptoide.com/actolov/2a7331e9e4209f280c8647bb90070ae3_fgraphic.png",
+            "version": "1.8",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/actolov/com-aconvert-pdftools-9-67507236-37bb4c94c224c82cfeb600da636da797.apk",
+            "description": "Download PDF Tools latest version."
+        },
+        {
+            "name": "Web Tools: FTP, SSH, HTTP",
+            "package": "webtools.ddm.com.webtools",
+            "icon": "https://pool.img.aptoide.com/appupdater/0a6c94f88c24eb794dc7b8e46aa23804.png",
+            "version": "1.6.3",
+            "rating": 5,
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/webtools-ddm-com-webtools-68-75248474-2880784160e72a8c6228620a1c091446.apk",
+            "description": "Download Web Tools: FTP, SSH, HTTP latest version."
+        },
+        {
+            "name": "Tools FlashLight",
+            "package": "com.toolsflashbr",
+            "icon": "https://pool.img.aptoide.com/catappult/21c3e43ccb1c7932ee8c63215472efe6_feature_graphic.png",
+            "version": "1.0",
+            "rating": 5,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-toolsflashbr-1-45318800-29273f1a4af2bbe51b4ac0d3365657fb.apk",
+            "description": "Download Tools FlashLight latest version."
         },
         {
             "name": "GalaxSim Unlock",
