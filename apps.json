@@ -525,24 +525,6 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/sublime2020/pt-segsocial-mobile-segurancasocial-10002200-55998529-24e87e6470f381b4e7766a98b47964a5.apk",
             "description": "Download Segurança Social latest version."
-        },
-        {
-            "name": "YoYo Social",
-            "package": "com.tguru.no",
-            "icon": "https://pool.img.aptoide.com/appupdater/361eb2924781e9509cd5b8bd3d647875_fgraphic.png",
-            "version": "5.3",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-tguru-no-53-67629885-2c69d799f066ed959962327bd7860f3b.apk",
-            "description": "Download YoYo Social latest version."
-        },
-        {
-            "name": "Знакомься ВКонтакте",
-            "package": "com.hippeis.dating",
-            "icon": "https://pool.img.aptoide.com/catappult/9c37483653bc002257dbcf2806418b18_feature_graphic.jpg",
-            "version": "1.48c",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hippeis-dating-48-50235218-7af49e2cad9c2499350b9bbb365a80ce.apk",
-            "description": "Download Знакомься ВКонтакте latest version."
         }
     ],
     "Tool": [
@@ -610,13 +592,13 @@
             "description": "Download Pipefitter Tools latest version."
         },
         {
-            "name": "WiFi App: passwords, hotspots",
-            "package": "com.osmino.wifil",
-            "icon": "https://pool.img.aptoide.com/catappult/873531eda58f23bd7f7690f48f2b64ae_fgraphic.jpg",
-            "version": "v2025.6.18.2873567",
-            "rating": 3,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifil-2873567-71720217-bc96905b725cb290a3be20385473058a.apk",
-            "description": "Download WiFi App: passwords, hotspots latest version."
+            "name": "Hik-Connect",
+            "package": "com.hikvision.hikconnect",
+            "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
+            "version": "3.11.1.1023",
+            "rating": 2.93,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hikvision-hikconnect-89-51398311-0cc5e2d747da7bbe21987674d39648d2.apk",
+            "description": "Download Hik-Connect latest version."
         },
         {
             "name": "Talking Olivia Ostrich Lady",
@@ -646,13 +628,13 @@
             "description": "Download Need Tools latest version."
         },
         {
-            "name": "Hik-Connect",
-            "package": "com.hikvision.hikconnect",
-            "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
-            "version": "3.11.1.1023",
-            "rating": 2.93,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hikvision-hikconnect-89-51398311-0cc5e2d747da7bbe21987674d39648d2.apk",
-            "description": "Download Hik-Connect latest version."
+            "name": "Advanced Download Manager",
+            "package": "com.dv.adm",
+            "icon": "https://pool.img.aptoide.com/catappult/d3caf6f3de085ffc3b80179504526737_feature_graphic.png",
+            "version": "7.33oc",
+            "rating": 4.31,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-dv-adm-73312-55968942-c1b9ca03afa2db9a0809b11069dba980.apk",
+            "description": "Download Advanced Download Manager latest version."
         },
         {
             "name": "HTTP Tools",
@@ -682,13 +664,13 @@
             "description": "Download Advanced Tools latest version."
         },
         {
-            "name": "Advanced Download Manager",
-            "package": "com.dv.adm",
-            "icon": "https://pool.img.aptoide.com/catappult/d3caf6f3de085ffc3b80179504526737_feature_graphic.png",
-            "version": "7.33oc",
-            "rating": 4.31,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-dv-adm-73312-55968942-c1b9ca03afa2db9a0809b11069dba980.apk",
-            "description": "Download Advanced Download Manager latest version."
+            "name": "WiFi: passwords, hotspots",
+            "package": "com.osmino.wifilight",
+            "icon": "https://pool.img.aptoide.com/catappult/63fed9b7acc56bdc85122eaf4769ba59_fgraphic.png",
+            "version": "v2025.3.31.2759735",
+            "rating": 3.67,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifilight-2759735-71720216-b0d1a76b5250c496963f7a260464b87b.apk",
+            "description": "Download WiFi: passwords, hotspots latest version."
         },
         {
             "name": "RC Tools",
@@ -718,13 +700,13 @@
             "description": "Download Growtopia Tools latest version."
         },
         {
-            "name": "WiFi: passwords, hotspots",
-            "package": "com.osmino.wifilight",
-            "icon": "https://pool.img.aptoide.com/catappult/63fed9b7acc56bdc85122eaf4769ba59_fgraphic.png",
-            "version": "v2025.3.31.2759735",
-            "rating": 3.67,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-osmino-wifilight-2759735-71720216-b0d1a76b5250c496963f7a260464b87b.apk",
-            "description": "Download WiFi: passwords, hotspots latest version."
+            "name": "GalaxSim Unlock",
+            "package": "com.spocky.galaxsimunlock",
+            "icon": "https://pool.img.aptoide.com/catappult/7a581347e52ed1a7354ebaed6089fd13_fgraphic.jpg",
+            "version": "2.9.12",
+            "rating": 5,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-spocky-galaxsimunlock-61-71723375-0ea7e28bcfeba5a88a343395cfa1e72e.apk",
+            "description": "Download GalaxSim Unlock latest version."
         },
         {
             "name": "Tools Trades",
@@ -754,13 +736,13 @@
             "description": "Download Hand tools latest version."
         },
         {
-            "name": "GalaxSim Unlock",
-            "package": "com.spocky.galaxsimunlock",
-            "icon": "https://pool.img.aptoide.com/catappult/7a581347e52ed1a7354ebaed6089fd13_fgraphic.jpg",
-            "version": "2.9.12",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-spocky-galaxsimunlock-61-71723375-0ea7e28bcfeba5a88a343395cfa1e72e.apk",
-            "description": "Download GalaxSim Unlock latest version."
+            "name": "Total Antivirus Defender",
+            "package": "com.securitydefend.totalvirusdefender",
+            "icon": "https://pool.img.aptoide.com/catappult/b4616f2ba4cf1c02cd3391bc15228624_feature_graphic.png",
+            "version": "2.6.2c",
+            "rating": 4,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-securitydefend-totalvirusdefender-262-56065431-3e96a219576f2f743bca48875d8d7975.apk",
+            "description": "Download Total Antivirus Defender latest version."
         }
     ]
 }
