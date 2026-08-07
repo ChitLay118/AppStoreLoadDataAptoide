@@ -498,15 +498,6 @@
             "rating": 3.83,
             "downloadUrl": "https://pool.apk.aptoide.com/matta621/com-imvu-mobilecordova-80200012-63612590-f234298a81c73190e931c77769636bde.apk",
             "description": "Download IMVU: online 3D metaverse game latest version."
-        },
-        {
-            "name": "Segurança Social",
-            "package": "pt.segsocial.mobile.segurancasocial",
-            "icon": "https://pool.img.aptoide.com/sublime2020/08cb9ef207a53cc23a8e626e0a247533.png",
-            "version": "1.2.20",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/sublime2020/pt-segsocial-mobile-segurancasocial-10002200-55998529-24e87e6470f381b4e7766a98b47964a5.apk",
-            "description": "Download Segurança Social latest version."
         }
     ],
     "Tool": [
@@ -614,7 +605,7 @@
             "package": "com.dv.adm",
             "icon": "https://pool.img.aptoide.com/catappult/d3caf6f3de085ffc3b80179504526737_feature_graphic.png",
             "version": "7.33oc",
-            "rating": 4.31,
+            "rating": 4.33,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-dv-adm-73312-55968942-c1b9ca03afa2db9a0809b11069dba980.apk",
             "description": "Download Advanced Download Manager latest version."
         },
