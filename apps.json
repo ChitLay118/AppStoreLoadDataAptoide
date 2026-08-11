@@ -255,6 +255,15 @@
             "description": "Download Games latest version."
         },
         {
+            "name": "Bike Race：Motorcycle Games",
+            "package": "com.topfreegames.bikeracefreeworld",
+            "icon": "https://pool.img.aptoide.com/skd201aa3/df45767c0791cc79dfb9dc7bc851a3a7_fgraphic.png",
+            "version": "999.0",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/skd201aa3/com-topfreegames-bikeracefreeworld-999-75897642-1c737b0f14b9e20b0a331fbd78d5b9f7.apk",
+            "description": "Download Bike Race：Motorcycle Games latest version."
+        },
+        {
             "name": "Hooked Inc: Fishing Games",
             "package": "se.ace.fishinc",
             "icon": "https://pool.img.aptoide.com/superpocket/06c4af472818782c9eff0f1ac4d83ebd_fgraphic.png",
