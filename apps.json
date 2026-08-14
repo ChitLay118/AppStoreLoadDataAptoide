@@ -529,15 +529,6 @@
             "description": "Download Useful Tools latest version."
         },
         {
-            "name": "Bitcoin tools",
-            "package": "com.devapp.bitcointools",
-            "icon": "https://pool.img.aptoide.com/apps/af54ab1f3d1d05056a4e1c4329cbaf80_icon.png",
-            "version": "1.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/apps/com-devapp-bitcointools-2-34143325-ec63fdbc2ced05d7b2b7cb94284b071b.apk",
-            "description": "Download Bitcoin tools latest version."
-        },
-        {
             "name": "All tools",
             "package": "com.pradhyu.alltoolseveryutility",
             "icon": "https://pool.img.aptoide.com/appupdater/882ed8b0bafd41f28acbe1901fe0d9e8_fgraphic.png",
@@ -547,15 +538,6 @@
             "description": "Download All tools latest version."
         },
         {
-            "name": "dr.fone - Recovery & Transfer wirelessly & Backup",
-            "package": "com.wondershare.drfone",
-            "icon": "https://pool.img.aptoide.com/catappult/a376e15d36374e7448e9b654d446f8ae_fgraphic.png",
-            "version": "3.2.4.195c",
-            "rating": 3,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wondershare-drfone-195-56479017-2ada134570cbad09fcce8ba4f615d479.apk",
-            "description": "Download dr.fone - Recovery & Transfer wirelessly & Backup latest version."
-        },
-        {
             "name": "Tools programmer",
             "package": "com.do_apps.catalog_142",
             "icon": "https://pool.img.aptoide.com/13ftw13/edb6ab1a386a39935ed1a1137cad8949.png",
@@ -563,6 +545,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/13ftw13/com-do-apps-catalog-142-805040-54110415-6975a6cc00db65832f0988ed6bcf11ac.apk",
             "description": "Download Tools programmer latest version."
+        },
+        {
+            "name": "dr.fone - Recovery & Transfer wirelessly & Backup",
+            "package": "com.wondershare.drfone",
+            "icon": "https://pool.img.aptoide.com/catappult/a376e15d36374e7448e9b654d446f8ae_fgraphic.png",
+            "version": "3.2.4.195c",
+            "rating": 3,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wondershare-drfone-195-56479017-2ada134570cbad09fcce8ba4f615d479.apk",
+            "description": "Download dr.fone - Recovery & Transfer wirelessly & Backup latest version."
         },
         {
             "name": "NFC Tools",
@@ -583,15 +574,6 @@
             "description": "Download Pipefitter Tools latest version."
         },
         {
-            "name": "Hik-Connect",
-            "package": "com.hikvision.hikconnect",
-            "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
-            "version": "3.11.1.1023",
-            "rating": 2.93,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hikvision-hikconnect-89-51398311-0cc5e2d747da7bbe21987674d39648d2.apk",
-            "description": "Download Hik-Connect latest version."
-        },
-        {
             "name": "Talking Olivia Ostrich Lady",
             "package": "com.kauf.talking.oliviaostrich",
             "icon": "https://pool.img.aptoide.com/catappult/e289aeaf5931d1d3ff89e4ebd6177653_feature_graphic.jpg",
@@ -599,6 +581,15 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-kauf-talking-oliviaostrich-85-57447273-6367dc696f55d9f27ad1920744b6c53d.apk",
             "description": "Download Talking Olivia Ostrich Lady latest version."
+        },
+        {
+            "name": "Hik-Connect",
+            "package": "com.hikvision.hikconnect",
+            "icon": "https://pool.img.aptoide.com/catappult/9c5c14dd13b01dcaa1faeca88cb6e7df_fgraphic.jpg",
+            "version": "3.11.1.1023",
+            "rating": 2.93,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-hikvision-hikconnect-89-51398311-0cc5e2d747da7bbe21987674d39648d2.apk",
+            "description": "Download Hik-Connect latest version."
         },
         {
             "name": "Social Tools",
@@ -619,6 +610,15 @@
             "description": "Download Need Tools latest version."
         },
         {
+            "name": "HTTP Tools",
+            "package": "com.cafelabs.curlme",
+            "icon": "https://pool.img.aptoide.com/catappult/96633318cf4b28359b5ce7821813d73c_feature_graphic.png",
+            "version": "4.5.5",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-cafelabs-curlme-40505-59678868-f39ac4d7fa04810c76f36ccaaf7945e6.apk",
+            "description": "Download HTTP Tools latest version."
+        },
+        {
             "name": "Advanced Download Manager",
             "package": "com.dv.adm",
             "icon": "https://pool.img.aptoide.com/catappult/d3caf6f3de085ffc3b80179504526737_feature_graphic.png",
@@ -628,13 +628,13 @@
             "description": "Download Advanced Download Manager latest version."
         },
         {
-            "name": "HTTP Tools",
-            "package": "com.cafelabs.curlme",
-            "icon": "https://pool.img.aptoide.com/catappult/96633318cf4b28359b5ce7821813d73c_feature_graphic.png",
-            "version": "4.5.5",
+            "name": "Measurement Tools",
+            "package": "com.am.measure",
+            "icon": "https://pool.img.aptoide.com/catappult/c8a8c4caa34e6a6e8828056be873d055_fgraphic.png",
+            "version": "1.0.7",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-cafelabs-curlme-40505-59678868-f39ac4d7fa04810c76f36ccaaf7945e6.apk",
-            "description": "Download HTTP Tools latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-am-measure-21-76097659-ba32c75dd3c47923a457765a81894756.apk",
+            "description": "Download Measurement Tools latest version."
         },
         {
             "name": "Bitcoin Tools",
