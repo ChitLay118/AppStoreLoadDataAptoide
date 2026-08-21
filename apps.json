@@ -365,51 +365,6 @@
             "description": "Download Peeks Social latest version."
         },
         {
-            "name": "Social Attack",
-            "package": "com.heasoft.socialattack",
-            "icon": "https://pool.img.aptoide.com/catappult/4cadb1d1a9c06e57ff5ab7bdd7c03acf_icon.png",
-            "version": "1.01",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-heasoft-socialattack-1-49806072-761b5a5498fe050fa01ab6ddceb02445.apk",
-            "description": "Download Social Attack latest version."
-        },
-        {
-            "name": "Automatic Social",
-            "package": "com.NujoSystems.AutomaticSocial",
-            "icon": "https://pool.img.aptoide.com/catappult/e120854098ea803f5c47f3d6c01b796c_fgraphic.png",
-            "version": "3.1",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-nujosystems-automaticsocial-3-71600007-e2e358141e34751ca0b3908dcc87f153.apk",
-            "description": "Download Automatic Social latest version."
-        },
-        {
-            "name": "Love Quotes",
-            "package": "lovequotes007.love.justforu.lovequotesjustforyou",
-            "icon": "https://pool.img.aptoide.com/catappult/65459cbdc335f5e79eb20b2c9ef9ae88_fgraphic.jpg",
-            "version": "3.3.7",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/lovequotes007-love-justforu-lovequotesjustforyou-34-71585549-79e9a7d0f79d4b42a75312c8ff739951.apk",
-            "description": "Download Love Quotes latest version."
-        },
-        {
-            "name": "Social star",
-            "package": "com.my.socialstar",
-            "icon": "https://pool.img.aptoide.com/catappult/1c9e9dee324cca1ed03ab973980e937d_icon.png",
-            "version": "1.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-my-socialstar-1-71618390-1a6a37eed5e671274fdef88828fff951.apk",
-            "description": "Download Social star latest version."
-        },
-        {
-            "name": "Social Work",
-            "package": "com.sqsapps.social_work",
-            "icon": "https://pool.img.aptoide.com/catappult/2c99ffaee5406bb6a7c56a1d1165e3d8_fgraphic.png",
-            "version": "3.0.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-sqsapps-social-work-30000-53037658-de6fe3ae9df78c385ad04774b650d3d5.apk",
-            "description": "Download Social Work latest version."
-        },
-        {
             "name": "Social World",
             "package": "com.SocialWorld.app",
             "icon": "https://pool.img.aptoide.com/catappult/08c54b7d10940c9e94c85084cb6adf04_feature_graphic.png",
@@ -419,15 +374,6 @@
             "description": "Download Social World latest version."
         },
         {
-            "name": "Video Downloader for Instagram",
-            "package": "io.jmobile.instant",
-            "icon": "https://pool.img.aptoide.com/catappult/1dd306cb30c11daa8c5e79ba2e8e00ab_feature_graphic.png",
-            "version": "1.2.27c",
-            "rating": 2.09,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/io-jmobile-instant-84-56083928-de95e12e4451f47fb7e5910a46463fea.apk",
-            "description": "Download Video Downloader for Instagram latest version."
-        },
-        {
             "name": "Social Lite",
             "package": "com.gaff.socloud",
             "icon": "https://pool.img.aptoide.com/catappult/c1afceb835d419068212914b33eecc64_fgraphic.jpg",
@@ -435,6 +381,15 @@
             "rating": 1,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-gaff-socloud-12-71579728-0539343eadd4bcc163a227329c388ed7.apk",
             "description": "Download Social Lite latest version."
+        },
+        {
+            "name": "Love Quotes",
+            "package": "lovequotes007.love.justforu.lovequotesjustforyou",
+            "icon": "https://pool.img.aptoide.com/catappult/65459cbdc335f5e79eb20b2c9ef9ae88_fgraphic.jpg",
+            "version": "3.3.7",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/lovequotes007-love-justforu-lovequotesjustforyou-34-71585549-79e9a7d0f79d4b42a75312c8ff739951.apk",
+            "description": "Download Love Quotes latest version."
         },
         {
             "name": "Social Tools",
@@ -455,6 +410,51 @@
             "description": "Download SOCIAL KIT latest version."
         },
         {
+            "name": "Social Chat",
+            "package": "com.taggingplus.messenger",
+            "icon": "https://pool.img.aptoide.com/catappult/7611bd1bcd7e36f8e95ebf12c998c068_feature_graphic.png",
+            "version": "1.1.5",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-taggingplus-messenger-16-55546684-df5b55bf1386dbc19f90d89c69f4bc55.apk",
+            "description": "Download Social Chat latest version."
+        },
+        {
+            "name": "Video Downloader for Instagram",
+            "package": "io.jmobile.instant",
+            "icon": "https://pool.img.aptoide.com/catappult/1dd306cb30c11daa8c5e79ba2e8e00ab_feature_graphic.png",
+            "version": "1.2.27c",
+            "rating": 2.09,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/io-jmobile-instant-84-56083928-de95e12e4451f47fb7e5910a46463fea.apk",
+            "description": "Download Video Downloader for Instagram latest version."
+        },
+        {
+            "name": "Social Attack",
+            "package": "com.heasoft.socialattack",
+            "icon": "https://pool.img.aptoide.com/catappult/4cadb1d1a9c06e57ff5ab7bdd7c03acf_icon.png",
+            "version": "1.01",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-heasoft-socialattack-1-49806072-761b5a5498fe050fa01ab6ddceb02445.apk",
+            "description": "Download Social Attack latest version."
+        },
+        {
+            "name": "Automatic Social",
+            "package": "com.NujoSystems.AutomaticSocial",
+            "icon": "https://pool.img.aptoide.com/catappult/e120854098ea803f5c47f3d6c01b796c_fgraphic.png",
+            "version": "3.1",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-nujosystems-automaticsocial-3-71600007-e2e358141e34751ca0b3908dcc87f153.apk",
+            "description": "Download Automatic Social latest version."
+        },
+        {
+            "name": "Social star",
+            "package": "com.my.socialstar",
+            "icon": "https://pool.img.aptoide.com/catappult/1c9e9dee324cca1ed03ab973980e937d_icon.png",
+            "version": "1.0",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-my-socialstar-1-71618390-1a6a37eed5e671274fdef88828fff951.apk",
+            "description": "Download Social star latest version."
+        },
+        {
             "name": "GPS Phone Tracker Spy",
             "package": "com.startup.find_location",
             "icon": "https://pool.img.aptoide.com/catappult/b4f95ea71e1588cd5a64d8a17b72ebdb_fgraphic.jpg",
@@ -464,13 +464,13 @@
             "description": "Download GPS Phone Tracker Spy latest version."
         },
         {
-            "name": "Social Chat",
-            "package": "com.taggingplus.messenger",
-            "icon": "https://pool.img.aptoide.com/catappult/7611bd1bcd7e36f8e95ebf12c998c068_feature_graphic.png",
-            "version": "1.1.5",
+            "name": "Social Work",
+            "package": "com.sqsapps.social_work",
+            "icon": "https://pool.img.aptoide.com/catappult/2c99ffaee5406bb6a7c56a1d1165e3d8_fgraphic.png",
+            "version": "3.0.0",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-taggingplus-messenger-16-55546684-df5b55bf1386dbc19f90d89c69f4bc55.apk",
-            "description": "Download Social Chat latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-sqsapps-social-work-30000-53037658-de6fe3ae9df78c385ad04774b650d3d5.apk",
+            "description": "Download Social Work latest version."
         },
         {
             "name": "Lomotif - Social Community & Editor for Creators",
