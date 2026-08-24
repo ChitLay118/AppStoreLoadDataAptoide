@@ -255,15 +255,6 @@
             "description": "Download Games latest version."
         },
         {
-            "name": "Bike Race：Motorcycle Games",
-            "package": "com.topfreegames.bikeracefreeworld",
-            "icon": "https://pool.img.aptoide.com/vujn34tgd/df45767c0791cc79dfb9dc7bc851a3a7_fgraphic.png",
-            "version": "999.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/vujn34tgd/com-topfreegames-bikeracefreeworld-999-76106494-158470226105ad7173251a49704c0f3a.apk",
-            "description": "Download Bike Race：Motorcycle Games latest version."
-        },
-        {
             "name": "Hooked Inc: Fishing Games",
             "package": "se.ace.fishinc",
             "icon": "https://pool.img.aptoide.com/superpocket/06c4af472818782c9eff0f1ac4d83ebd_fgraphic.png",
@@ -323,9 +314,9 @@
             "name": "OK: Social Network",
             "package": "ru.ok.android",
             "icon": "https://pool.img.aptoide.com/aplicationpaidprofree/fe999f808e2603637790ecbf521e3ec1_fgraphic.jpg",
-            "version": "26.8.6",
+            "version": "26.8.20",
             "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/aplicationpaidprofree/ru-ok-android-26080600-76170651-6717e2d3e4fd4ed67d46503210ac2ba4.apk",
+            "downloadUrl": "https://pool.apk.aptoide.com/aplicationpaidprofree/ru-ok-android-26082000-76237444-51adf77b7dd88be00a6b45fae6fa327f.apk",
             "description": "Download OK: Social Network latest version."
         },
         {
