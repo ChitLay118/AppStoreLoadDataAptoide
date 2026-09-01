@@ -298,25 +298,16 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/lexsexy/ru-mobstudio-andgalaxy-9042100-53274822-d2483dfa6892ec6254a6823f102f32d9.apk",
             "description": "Download Galaxy - Chat Rooms: Meet New People Online & Date latest version."
-        },
-        {
-            "name": "Bleach:Brave Souls Anime Games",
-            "package": "com.klab.bleach",
-            "icon": "https://pool.img.aptoide.com/buj54yrg/5d1bcacd8e6b8317bb4981020f1078b3_fgraphic.png",
-            "version": "999.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/buj54yrg/com-klab-bleach-999-76020879-b21c993a2d29f20dee244974763beb9e.apk",
-            "description": "Download Bleach:Brave Souls Anime Games latest version."
         }
     ],
     "Social": [
         {
             "name": "OK: Social Network",
             "package": "ru.ok.android",
-            "icon": "https://pool.img.aptoide.com/aplicationpaidprofree/fe999f808e2603637790ecbf521e3ec1_fgraphic.jpg",
-            "version": "26.8.20",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/aplicationpaidprofree/ru-ok-android-26082000-76237444-51adf77b7dd88be00a6b45fae6fa327f.apk",
+            "icon": "https://pool.img.aptoide.com/appupdater/fe999f808e2603637790ecbf521e3ec1_fgraphic.jpg",
+            "version": "23.8.2",
+            "rating": 2.56,
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/ru-ok-android-23080200-70038738-147073bca2f1f1fd519eff7d43902f28.apk",
             "description": "Download OK: Social Network latest version."
         },
         {
