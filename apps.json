@@ -538,13 +538,13 @@
             "description": "Download All tools latest version."
         },
         {
-            "name": "Tools programmer",
-            "package": "com.do_apps.catalog_142",
-            "icon": "https://pool.img.aptoide.com/13ftw13/edb6ab1a386a39935ed1a1137cad8949.png",
-            "version": "8.5.4",
+            "name": "Talking Olivia Ostrich Lady",
+            "package": "com.kauf.talking.oliviaostrich",
+            "icon": "https://pool.img.aptoide.com/catappult/e289aeaf5931d1d3ff89e4ebd6177653_feature_graphic.jpg",
+            "version": "2.0",
             "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/13ftw13/com-do-apps-catalog-142-805040-54110415-6975a6cc00db65832f0988ed6bcf11ac.apk",
-            "description": "Download Tools programmer latest version."
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-kauf-talking-oliviaostrich-85-57447273-6367dc696f55d9f27ad1920744b6c53d.apk",
+            "description": "Download Talking Olivia Ostrich Lady latest version."
         },
         {
             "name": "dr.fone - Recovery & Transfer wirelessly & Backup",
@@ -554,6 +554,15 @@
             "rating": 3,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wondershare-drfone-195-56479017-2ada134570cbad09fcce8ba4f615d479.apk",
             "description": "Download dr.fone - Recovery & Transfer wirelessly & Backup latest version."
+        },
+        {
+            "name": "Tools programmer",
+            "package": "com.do_apps.catalog_142",
+            "icon": "https://pool.img.aptoide.com/13ftw13/edb6ab1a386a39935ed1a1137cad8949.png",
+            "version": "8.5.4",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/13ftw13/com-do-apps-catalog-142-805040-54110415-6975a6cc00db65832f0988ed6bcf11ac.apk",
+            "description": "Download Tools programmer latest version."
         },
         {
             "name": "NFC Tools",
@@ -572,15 +581,6 @@
             "rating": 0,
             "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-odesk-calculator-57-66344733-404b0bc69a723c3aefa9c9b2a92239e8.apk",
             "description": "Download Pipefitter Tools latest version."
-        },
-        {
-            "name": "Talking Olivia Ostrich Lady",
-            "package": "com.kauf.talking.oliviaostrich",
-            "icon": "https://pool.img.aptoide.com/catappult/e289aeaf5931d1d3ff89e4ebd6177653_feature_graphic.jpg",
-            "version": "2.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-kauf-talking-oliviaostrich-85-57447273-6367dc696f55d9f27ad1920744b6c53d.apk",
-            "description": "Download Talking Olivia Ostrich Lady latest version."
         },
         {
             "name": "Hik-Connect",
@@ -691,13 +691,13 @@
             "description": "Download Growtopia Tools latest version."
         },
         {
-            "name": "GalaxSim Unlock",
-            "package": "com.spocky.galaxsimunlock",
-            "icon": "https://pool.img.aptoide.com/catappult/7a581347e52ed1a7354ebaed6089fd13_fgraphic.jpg",
-            "version": "2.9.12",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-spocky-galaxsimunlock-61-71723375-0ea7e28bcfeba5a88a343395cfa1e72e.apk",
-            "description": "Download GalaxSim Unlock latest version."
+            "name": "PDF Reader",
+            "package": "com.gappstudios.autowifi3gdataswitch.san.basicpdfviewer",
+            "icon": "https://pool.img.aptoide.com/catappult/1a547816d11c8917ad7feff7f647d42b_fgraphic.png",
+            "version": "1.28",
+            "rating": 3.88,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-gappstudios-autowifi3gdataswitch-san-basicpdfviewer-27-76785756-336403dfeebfa02650fab0799aa3d22e.apk",
+            "description": "Download PDF Reader latest version."
         },
         {
             "name": "Tools Trades",
@@ -727,13 +727,13 @@
             "description": "Download Hand tools latest version."
         },
         {
-            "name": "Total Antivirus Defender",
-            "package": "com.securitydefend.totalvirusdefender",
-            "icon": "https://pool.img.aptoide.com/catappult/b4616f2ba4cf1c02cd3391bc15228624_feature_graphic.png",
-            "version": "2.6.2c",
-            "rating": 4.09,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-securitydefend-totalvirusdefender-262-56065431-3e96a219576f2f743bca48875d8d7975.apk",
-            "description": "Download Total Antivirus Defender latest version."
+            "name": "GalaxSim Unlock",
+            "package": "com.spocky.galaxsimunlock",
+            "icon": "https://pool.img.aptoide.com/catappult/7a581347e52ed1a7354ebaed6089fd13_fgraphic.jpg",
+            "version": "2.9.12",
+            "rating": 5,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-spocky-galaxsimunlock-61-71723375-0ea7e28bcfeba5a88a343395cfa1e72e.apk",
+            "description": "Download GalaxSim Unlock latest version."
         }
     ]
 }
