@@ -255,15 +255,6 @@
             "description": "Download Games latest version."
         },
         {
-            "name": "Hooked Inc: Fishing Games",
-            "package": "se.ace.fishinc",
-            "icon": "https://pool.img.aptoide.com/superpocket/06c4af472818782c9eff0f1ac4d83ebd_fgraphic.png",
-            "version": "3.1.3",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/superpocket/se-ace-fishinc-418-74748325-a3936f50cd79bb55d34c5dd06baa592d.apk",
-            "description": "Download Hooked Inc: Fishing Games latest version."
-        },
-        {
             "name": "HAWK: Airplane Space games",
             "package": "com.my.hawk.air.shooter",
             "icon": "https://pool.img.aptoide.com/appupdater/4583e885bdf94c8020d6190fa6e8e088_fgraphic.png",
@@ -271,15 +262,6 @@
             "rating": 5,
             "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-my-hawk-air-shooter-31686-74099956-fdd491a6482ec37de230c067f4a1989d.apk",
             "description": "Download HAWK: Airplane Space games latest version."
-        },
-        {
-            "name": "2 Player games : no wifi games",
-            "package": "com.JindoBlu.TwoPlayerGamesChallenge",
-            "icon": "https://pool.img.aptoide.com/superpocket/e62532bd65271ca690efe5fb771005b6_fgraphic.png",
-            "version": "7.18.4",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/superpocket/com-jindoblu-twoplayergameschallenge-3269-75383556-4675cbc5753ca68efc01e2f39207a41c.apk",
-            "description": "Download 2 Player games : no wifi games latest version."
         },
         {
             "name": "LootBoy - Grab your loot!",
@@ -304,10 +286,10 @@
         {
             "name": "OK: Social Network",
             "package": "ru.ok.android",
-            "icon": "https://pool.img.aptoide.com/aplicationpaidprofree/fe999f808e2603637790ecbf521e3ec1_fgraphic.jpg",
-            "version": "26.9.24",
-            "rating": 5,
-            "downloadUrl": "https://pool.apk.aptoide.com/aplicationpaidprofree/ru-ok-android-26092400-76864283-4f7e55d7c1a22acae59c23bf84d7d05c.apk",
+            "icon": "https://pool.img.aptoide.com/appupdater/fe999f808e2603637790ecbf521e3ec1_fgraphic.jpg",
+            "version": "23.8.2",
+            "rating": 2.56,
+            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/ru-ok-android-23080200-70038738-147073bca2f1f1fd519eff7d43902f28.apk",
             "description": "Download OK: Social Network latest version."
         },
         {
