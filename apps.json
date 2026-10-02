@@ -511,6 +511,15 @@
             "description": "Download Useful Tools latest version."
         },
         {
+            "name": "Bitcoin tools",
+            "package": "com.devapp.bitcointools",
+            "icon": "https://pool.img.aptoide.com/apps/af54ab1f3d1d05056a4e1c4329cbaf80_icon.png",
+            "version": "1.0",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/apps/com-devapp-bitcointools-2-34143325-ec63fdbc2ced05d7b2b7cb94284b071b.apk",
+            "description": "Download Bitcoin tools latest version."
+        },
+        {
             "name": "All tools",
             "package": "com.pradhyu.alltoolseveryutility",
             "icon": "https://pool.img.aptoide.com/appupdater/882ed8b0bafd41f28acbe1901fe0d9e8_fgraphic.png",
@@ -520,15 +529,6 @@
             "description": "Download All tools latest version."
         },
         {
-            "name": "Talking Olivia Ostrich Lady",
-            "package": "com.kauf.talking.oliviaostrich",
-            "icon": "https://pool.img.aptoide.com/catappult/e289aeaf5931d1d3ff89e4ebd6177653_feature_graphic.jpg",
-            "version": "2.0",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-kauf-talking-oliviaostrich-85-57447273-6367dc696f55d9f27ad1920744b6c53d.apk",
-            "description": "Download Talking Olivia Ostrich Lady latest version."
-        },
-        {
             "name": "dr.fone - Recovery & Transfer wirelessly & Backup",
             "package": "com.wondershare.drfone",
             "icon": "https://pool.img.aptoide.com/catappult/a376e15d36374e7448e9b654d446f8ae_fgraphic.png",
@@ -536,6 +536,15 @@
             "rating": 3,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wondershare-drfone-195-56479017-2ada134570cbad09fcce8ba4f615d479.apk",
             "description": "Download dr.fone - Recovery & Transfer wirelessly & Backup latest version."
+        },
+        {
+            "name": "Talking Olivia Ostrich Lady",
+            "package": "com.kauf.talking.oliviaostrich",
+            "icon": "https://pool.img.aptoide.com/catappult/e289aeaf5931d1d3ff89e4ebd6177653_feature_graphic.jpg",
+            "version": "2.0",
+            "rating": 0,
+            "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-kauf-talking-oliviaostrich-85-57447273-6367dc696f55d9f27ad1920744b6c53d.apk",
+            "description": "Download Talking Olivia Ostrich Lady latest version."
         },
         {
             "name": "Tools programmer",
@@ -554,15 +563,6 @@
             "rating": 2.75,
             "downloadUrl": "https://pool.apk.aptoide.com/catappult/com-wakdev-wdnfc-153-76878141-ac68465aa0ff445af1942e9f27f02223.apk",
             "description": "Download NFC Tools latest version."
-        },
-        {
-            "name": "Pipefitter Tools",
-            "package": "com.odesk.calculator",
-            "icon": "https://pool.img.aptoide.com/appupdater/81ee7f81221a215eb7e5f742abb4d31c_fgraphic.png",
-            "version": "2.7.9",
-            "rating": 0,
-            "downloadUrl": "https://pool.apk.aptoide.com/appupdater/com-odesk-calculator-57-66344733-404b0bc69a723c3aefa9c9b2a92239e8.apk",
-            "description": "Download Pipefitter Tools latest version."
         },
         {
             "name": "Hik-Connect",
